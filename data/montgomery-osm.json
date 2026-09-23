@@ -1,0 +1,6265 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-05-06T03:25:00Z",
+    "timestamp_areas_base": "2026-05-06T03:25:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 356605894,
+  "lat": 39.0866930,
+  "lon": -77.1532350,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "christ_scientist",
+    "ele": "136",
+    "gnis:feature_id": "2457978",
+    "name": "Christian Science Reading Room",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358238457,
+  "lat": 39.1173002,
+  "lon": -76.9331585,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "153",
+    "gnis:feature_id": "583853",
+    "name": "Columbia Primitive Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358238829,
+  "lat": 38.9845545,
+  "lon": -77.1605349,
+  "tags": {
+    "amenity": "place_of_worship",
+    "description": "Church has been inoperable for several years",
+    "ele": "44",
+    "gnis:feature_id": "584585",
+    "name": "Gibson Grove Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358239066,
+  "lat": 39.1003858,
+  "lon": -77.2130369,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "134",
+    "gnis:feature_id": "585115",
+    "name": "Hunting Hill Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358239123,
+  "lat": 39.2245501,
+  "lon": -77.2624840,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "161",
+    "gnis:feature_id": "585245",
+    "name": "John Wesley Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358239412,
+  "lat": 39.2689934,
+  "lon": -77.3060958,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "171",
+    "gnis:feature_id": "585937",
+    "name": "Montgomery Chapel",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358239449,
+  "lat": 39.1243369,
+  "lon": -76.9646442,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "143",
+    "gnis:feature_id": "585982",
+    "name": "Mount Calvary Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358239942,
+  "lat": 39.1142022,
+  "lon": -77.2444620,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "123",
+    "gnis:feature_id": "586601",
+    "name": "Pleasant View Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358239961,
+  "lat": 39.1592720,
+  "lon": -77.4455428,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "101",
+    "gnis:feature_id": "586647",
+    "name": "Poolesville Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358240282,
+  "lat": 39.0648311,
+  "lon": -76.9646979,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "110",
+    "gnis:feature_id": "587080",
+    "name": "Saint Marks Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358240309,
+  "lat": 39.0798796,
+  "lon": -77.0779099,
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "3820",
+    "addr:neighbourhood": "Aspen Hill",
+    "addr:postcode": "20906",
+    "addr:state": "MD",
+    "addr:street": "Aspen Hill Road",
+    "alt_name": "Misa Magdalena",
+    "amenity": "place_of_worship",
+    "denomination": "episcopal",
+    "ele": "110",
+    "facebook": "https://facebook.com/stmarymagdalenesilverspring",
+    "gnis:feature_id": "587101",
+    "name": "Saint Mary Magdalene Episcopal Church",
+    "religion": "christian",
+    "website": "https://www.stmarymagdalene-md.org/",
+    "wikimedia_commons": "File:St. Mary Magdalene Episcopal Church - Aspen Hill, Maryland.JPG"
+  }
+},
+{
+  "type": "node",
+  "id": 358240621,
+  "lat": 39.0097371,
+  "lon": -77.0982626,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "94",
+    "gnis:feature_id": "587718",
+    "name": "Temple Hills Baptist Church",
+    "religion": "christian",
+    "service_times": "Su: 11:00"
+  }
+},
+{
+  "type": "node",
+  "id": 358240913,
+  "lat": 39.0956638,
+  "lon": -77.1483133,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "133",
+    "gnis:feature_id": "588378",
+    "name": "Zion Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242454,
+  "lat": 39.1273291,
+  "lon": -77.3447072,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "98",
+    "gnis:feature_id": "593022",
+    "name": "Living Word Bible Fellowship",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242459,
+  "lat": 39.1822314,
+  "lon": -77.3153051,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "138",
+    "gnis:feature_id": "593025",
+    "name": "Boyds Presbyterian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242465,
+  "lat": 39.1712177,
+  "lon": -77.2735947,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "142",
+    "gnis:feature_id": "593029",
+    "name": "Trinity United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242506,
+  "lat": 39.1296148,
+  "lon": -77.0695368,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "151",
+    "gnis:feature_id": "593071",
+    "name": "Oakdale Emory United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242508,
+  "lat": 39.1472755,
+  "lon": -77.0253233,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "quaker",
+    "ele": "149",
+    "gnis:feature_id": "593073",
+    "inscription": "1753 1st Sandy Spring Meeting of record of the Religious Society of Friends held in this grove. 1817 Present building erected. 1953 Bicentennial commemoration by Sandy Spring Meeting United. God dwells not in temples made with hands but in human hearts GF",
+    "name": "Sandy Spring Friends Meeting House Church",
+    "religion": "christian",
+    "wikidata": "Q7417480"
+  }
+},
+{
+  "type": "node",
+  "id": 358242510,
+  "lat": 39.1481629,
+  "lon": -77.0322000,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "142",
+    "gnis:feature_id": "593074",
+    "name": "Sharp Street United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242511,
+  "lat": 39.1689958,
+  "lon": -77.1174799,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "150",
+    "gnis:feature_id": "593075",
+    "name": "Montgomery Community Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242519,
+  "lat": 39.2412163,
+  "lon": -77.2797066,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "203",
+    "gnis:feature_id": "593088",
+    "name": "Clarksburg Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242525,
+  "lat": 39.1648271,
+  "lon": -77.4774879,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "126",
+    "gnis:feature_id": "593102",
+    "name": "United Warren Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242542,
+  "lat": 39.0003878,
+  "lon": -77.0263658,
+  "tags": {
+    "amenity": "place_of_worship",
+    "check_date": "2023-10-23",
+    "ele": "99",
+    "gnis:feature_id": "593116",
+    "name": "Silver Spring Seventh Day Adventist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242551,
+  "lat": 39.0681644,
+  "lon": -77.0155325,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "123",
+    "gnis:feature_id": "593129",
+    "name": "Korean Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242560,
+  "lat": 39.0231424,
+  "lon": -77.1247428,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "118",
+    "gnis:feature_id": "593136",
+    "name": "Wildwood Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242562,
+  "lat": 39.1120523,
+  "lon": -77.0891454,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "124",
+    "gnis:feature_id": "593137",
+    "name": "Chinese Bible Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242566,
+  "lat": 39.1145523,
+  "lon": -77.0930344,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "128",
+    "gnis:feature_id": "593140",
+    "name": "Norbeck Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242567,
+  "lat": 39.1128857,
+  "lon": -77.0913678,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "127",
+    "gnis:feature_id": "593141",
+    "name": "Rockville Church of the Nazarene",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242569,
+  "lat": 39.0942939,
+  "lon": -77.0776991,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "presbyterian",
+    "ele": "135",
+    "gnis:feature_id": "593142",
+    "name": "Saint Matthews United Presbyterian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242573,
+  "lat": 39.0912194,
+  "lon": -77.0424777,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "131",
+    "gnis:feature_id": "593145",
+    "name": "Layhill Free Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242577,
+  "lat": 39.0123320,
+  "lon": -77.0163657,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "96",
+    "gnis:feature_id": "593149",
+    "name": "Christ Congregational Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242580,
+  "lat": 39.0687198,
+  "lon": -77.0752560,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "101",
+    "gnis:feature_id": "593151",
+    "name": "Faith Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242586,
+  "lat": 39.0251402,
+  "lon": -77.0203076,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "ele": "113",
+    "gnis:feature_id": "593155",
+    "name": "Holy Family Seminary Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242589,
+  "lat": 39.0241221,
+  "lon": -77.0187531,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "mormon",
+    "ele": "111",
+    "gnis:feature_id": "593158",
+    "name": "The Church of Jesus Christ of Latter-day Saints",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242617,
+  "lat": 39.1156632,
+  "lon": -77.2652606,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "128",
+    "gnis:feature_id": "593212",
+    "name": "Fairhaven United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242627,
+  "lat": 39.2053488,
+  "lon": -77.1398118,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "185",
+    "gnis:feature_id": "593247",
+    "name": "Laytonsville Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242628,
+  "lat": 39.2109395,
+  "lon": -77.1422031,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "190",
+    "gnis:feature_id": "593248",
+    "name": "Saint Bartholomews Episcopal Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242629,
+  "lat": 39.2128839,
+  "lon": -77.1433143,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "185",
+    "gnis:feature_id": "593249",
+    "name": "Saint Paul United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242632,
+  "lat": 39.1468593,
+  "lon": -77.1424684,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "155",
+    "gnis:feature_id": "593255",
+    "name": "Millcreek United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242633,
+  "lat": 39.1426074,
+  "lon": -77.1399802,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "142",
+    "gnis:feature_id": "593256",
+    "name": "Redland Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242635,
+  "lat": 39.1475087,
+  "lon": -77.1433001,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "lutheran",
+    "ele": "154",
+    "gnis:feature_id": "593257",
+    "name": "Saint Lukes Lutheran Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242636,
+  "lat": 39.1358267,
+  "lon": -77.2014586,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "139",
+    "gnis:feature_id": "593258",
+    "name": "Calvary Apostolic Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242638,
+  "lat": 39.1267743,
+  "lon": -77.1499803,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "127",
+    "gnis:feature_id": "593259",
+    "name": "Derwood Alliance Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242639,
+  "lat": 39.1373296,
+  "lon": -77.1938703,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "156",
+    "gnis:feature_id": "593260",
+    "name": "Church of the Ascension",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242642,
+  "lat": 39.1487935,
+  "lon": -77.1680252,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "162",
+    "gnis:feature_id": "593262",
+    "name": "Emory Grove United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242645,
+  "lat": 39.1274679,
+  "lon": -77.1856286,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "151",
+    "gnis:feature_id": "593264",
+    "name": "Epworth United Methodist Church",
+    "religion": "christian",
+    "website": "https://www.epworthunited.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 358242646,
+  "lat": 39.1446159,
+  "lon": -77.1732469,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "158",
+    "gnis:feature_id": "593265",
+    "name": "Gaithersburg Church of God",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242649,
+  "lat": 39.1377267,
+  "lon": -77.2005406,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "145",
+    "gnis:feature_id": "593267",
+    "name": "Gaithersburg Mennonite Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242650,
+  "lat": 39.1292586,
+  "lon": -77.1873320,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "presbyterian",
+    "ele": "147",
+    "gnis:feature_id": "593268",
+    "name": "Gaithersburg Presbyterian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242651,
+  "lat": 39.1259979,
+  "lon": -77.1838478,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "lutheran",
+    "ele": "155",
+    "gnis:feature_id": "593269",
+    "name": "Good Shepherd Lutheran Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242652,
+  "lat": 39.1256632,
+  "lon": -77.1510914,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "136",
+    "gnis:feature_id": "593270",
+    "name": "Iglesia Alianza Derwood Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242653,
+  "lat": 39.1438038,
+  "lon": -77.1990775,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "name": "Korean Methodist",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242657,
+  "lat": 39.2073284,
+  "lon": -77.1741483,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "146",
+    "gnis:feature_id": "593275",
+    "name": "Goshen Mennonite Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242659,
+  "lat": 39.1961357,
+  "lon": -77.2436366,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "173",
+    "gnis:feature_id": "593277",
+    "name": "Neelsville Presbyterian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242666,
+  "lat": 39.0812195,
+  "lon": -77.1330350,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "134",
+    "gnis:feature_id": "593331",
+    "name": "First Church of God",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242671,
+  "lat": 39.0781641,
+  "lon": -77.1158124,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "107",
+    "gnis:feature_id": "593335",
+    "name": "Rockville United Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242674,
+  "lat": 39.0314982,
+  "lon": -77.1252567,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "presbyterian",
+    "ele": "122",
+    "gnis:feature_id": "593337",
+    "name": "Saint Marks United Presbyterian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242680,
+  "lat": 39.0541641,
+  "lon": -77.1627137,
+  "tags": {
+    "addr:city": "Rockville",
+    "addr:housenumber": "11931",
+    "addr:postcode": "20854",
+    "addr:state": "MD",
+    "addr:street": "Seven Locks Road",
+    "amenity": "place_of_worship",
+    "denomination": "presbyterian",
+    "ele": "116",
+    "gnis:feature_id": "593341",
+    "name": "Geneva United Presbyterian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242689,
+  "lat": 39.0895526,
+  "lon": -77.1941475,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "134",
+    "gnis:feature_id": "593348",
+    "name": "Assembly of God Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242691,
+  "lat": 39.0942749,
+  "lon": -77.1441465,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "127",
+    "gnis:feature_id": "593349",
+    "name": "Mount Calvary Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242694,
+  "lat": 39.0862194,
+  "lon": -77.1791471,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "lutheran",
+    "ele": "116",
+    "gnis:feature_id": "593352",
+    "name": "Latvian Lutheran Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242695,
+  "lat": 39.0906638,
+  "lon": -77.1810917,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "118",
+    "gnis:feature_id": "593353",
+    "name": "Rockville Church of Christ",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242724,
+  "lat": 39.1185365,
+  "lon": -77.1594179,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "141",
+    "gnis:feature_id": "593382",
+    "name": "Derwood Bible Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242759,
+  "lat": 39.1995492,
+  "lon": -77.3952638,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "165",
+    "gnis:feature_id": "593408",
+    "name": "Mount Zion United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242766,
+  "lat": 39.0942750,
+  "lon": -77.0449778,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "131",
+    "gnis:feature_id": "593413",
+    "name": "Oak Chapel United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242773,
+  "lat": 39.0951080,
+  "lon": -77.2652604,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "118",
+    "gnis:feature_id": "593419",
+    "name": "Poplar Grove Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358242785,
+  "lat": 39.0976073,
+  "lon": -77.3833193,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "96",
+    "gnis:feature_id": "593429",
+    "name": "Saint Pauls Community Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358245825,
+  "lat": 38.9843860,
+  "lon": -76.9887220,
+  "tags": {
+    "addr:housenumber": "7410",
+    "addr:street": "New Hampshire Avenue",
+    "amenity": "place_of_worship",
+    "denomination": "lutheran",
+    "ele": "53",
+    "gnis:feature_id": "598298",
+    "name": "Zion Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251512,
+  "lat": 39.3134377,
+  "lon": -77.2474836,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "196",
+    "gnis:feature_id": "1712466",
+    "name": "Bethesda United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251513,
+  "lat": 39.3300543,
+  "lon": -77.1914053,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "227",
+    "gnis:feature_id": "1712468",
+    "name": "Damascus Church of God",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251524,
+  "lat": 39.2864938,
+  "lon": -77.1985938,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "262",
+    "gnis:feature_id": "1712474",
+    "name": "Damascus Seventh Day Adventist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251526,
+  "lat": 39.2859882,
+  "lon": -77.2004780,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "261",
+    "gnis:feature_id": "1712477",
+    "name": "Damascus United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251530,
+  "lat": 39.2831240,
+  "lon": -77.3159333,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "139",
+    "gnis:feature_id": "1712491",
+    "name": "Hyattstown Christian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251540,
+  "lat": 39.2512166,
+  "lon": -77.1435924,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "203",
+    "gnis:feature_id": "1712504",
+    "name": "Mount Tabor United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251541,
+  "lat": 39.2839938,
+  "lon": -77.2380391,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "226",
+    "gnis:feature_id": "1712505",
+    "name": "Mountain View United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251544,
+  "lat": 39.2828827,
+  "lon": -77.2338724,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "233",
+    "gnis:feature_id": "1712507",
+    "name": "Pleasant Grove Community Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251556,
+  "lat": 39.2762161,
+  "lon": -77.2041494,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "236",
+    "gnis:feature_id": "1712535",
+    "name": "Damascus Wesleyan Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251560,
+  "lat": 39.2184373,
+  "lon": -77.4266530,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "100",
+    "gnis:feature_id": "1712538",
+    "name": "Dickerson United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251574,
+  "lat": 39.2701115,
+  "lon": -77.2180050,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "223",
+    "gnis:feature_id": "1712560",
+    "name": "Saint Annes Episcopal Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251611,
+  "lat": 39.2489940,
+  "lon": -77.2769288,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "213",
+    "gnis:feature_id": "1712588",
+    "name": "Iglesia La Casa De Dios",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251667,
+  "lat": 39.1437184,
+  "lon": -77.2008149,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "156",
+    "gnis:feature_id": "1712619",
+    "name": "Grace United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251739,
+  "lat": 39.1412186,
+  "lon": -76.9985881,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "161",
+    "gnis:feature_id": "1712772",
+    "name": "Ashton United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251783,
+  "lat": 39.2442723,
+  "lon": -77.1877602,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "183",
+    "gnis:feature_id": "1712858",
+    "name": "Wesley Grove United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251792,
+  "lat": 39.0831635,
+  "lon": -77.3252621,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "97",
+    "gnis:feature_id": "1712875",
+    "name": "Community Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251916,
+  "lat": 39.1072378,
+  "lon": -76.9411983,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "145",
+    "gnis:feature_id": "1713091",
+    "name": "Burtonsville Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251926,
+  "lat": 39.0651089,
+  "lon": -76.9441418,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "107",
+    "gnis:feature_id": "1713098",
+    "name": "Calverton Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251937,
+  "lat": 39.0228874,
+  "lon": -76.9769202,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "anglican",
+    "ele": "92",
+    "gnis:feature_id": "1713108",
+    "name": "Church of Our Saviour",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251938,
+  "lat": 39.0845529,
+  "lon": -76.9994212,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "145",
+    "gnis:feature_id": "1713109",
+    "name": "Church of the Transfiguration",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251942,
+  "lat": 39.0698310,
+  "lon": -77.0049768,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "130",
+    "gnis:feature_id": "1713113",
+    "name": "Colesville Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251946,
+  "lat": 39.0648310,
+  "lon": -77.0013656,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "presbyterian",
+    "ele": "119",
+    "gnis:feature_id": "1713116",
+    "name": "Colesville United Presbyterian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251956,
+  "lat": 39.0923307,
+  "lon": -76.9466420,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "lutheran",
+    "ele": "142",
+    "gnis:feature_id": "1713125",
+    "name": "Epiphany Lutheran Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251962,
+  "lat": 39.1126080,
+  "lon": -76.9952546,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "159",
+    "gnis:feature_id": "1713131",
+    "name": "Faith Assembly of God Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251978,
+  "lat": 39.0959416,
+  "lon": -76.9877543,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "146",
+    "gnis:feature_id": "1713147",
+    "name": "Good Hope-Union United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358251980,
+  "lat": 39.0145542,
+  "lon": -76.9774758,
+  "tags": {
+    "amenity": "place_of_worship",
+    "check_date": "2023-11-28",
+    "denomination": "methodist",
+    "ele": "98",
+    "gnis:feature_id": "1713148",
+    "name": "Good Shepherd United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358252041,
+  "lat": 39.1040540,
+  "lon": -76.9195757,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "141",
+    "gnis:feature_id": "1713168",
+    "name": "Laurel Seventh Day Adventist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358252060,
+  "lat": 39.1060993,
+  "lon": -76.9373729,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "147",
+    "gnis:feature_id": "1713172",
+    "name": "Liberty Grove United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358252129,
+  "lat": 39.0583589,
+  "lon": -76.9958900,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "ele": "120",
+    "gnis:feature_id": "1713219",
+    "name": "Saint John the Baptist Church",
+    "religion": "christian",
+    "wikidata": "Q60042719"
+  }
+},
+{
+  "type": "node",
+  "id": 358252132,
+  "lat": 39.0467759,
+  "lon": -76.9930319,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "lutheran",
+    "ele": "121",
+    "gnis:feature_id": "1713221",
+    "name": "Saint Stephen Lutheran Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358252138,
+  "lat": 39.0039565,
+  "lon": -76.9948641,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "presbyterian",
+    "ele": "86",
+    "gnis:feature_id": "1713227",
+    "name": "Silver Spring United Presbyterian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358252152,
+  "lat": 39.0087209,
+  "lon": -76.9974763,
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "420",
+    "addr:postcode": "20901",
+    "addr:street": "University Boulevard East",
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "99",
+    "gnis:feature_id": "1713240",
+    "name": "Mt. Jezreel Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358253292,
+  "lat": 38.9770480,
+  "lon": -76.9918885,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "55",
+    "gnis:feature_id": "1714396",
+    "name": "Grace United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358253963,
+  "lat": 38.9853881,
+  "lon": -76.9983096,
+  "tags": {
+    "addr:city": "Takoma Park",
+    "addr:housenumber": "7700",
+    "addr:postcode": "20912",
+    "addr:state": "MD",
+    "addr:street": "Carroll Avenue",
+    "amenity": "place_of_worship",
+    "denomination": "seventh_day_adventist",
+    "ele": "67",
+    "gnis:feature_id": "1992709",
+    "name": "Sligo Seventh-day Adventist Church",
+    "religion": "christian",
+    "website": "https://sligochurch.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 358255790,
+  "lat": 39.0294606,
+  "lon": -77.0467949,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "113",
+    "gnis:feature_id": "2457661",
+    "name": "Iranian Christian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358255794,
+  "lat": 39.0861150,
+  "lon": -77.1544370,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "137",
+    "gnis:feature_id": "2457664",
+    "name": "Jerusalem Mount Pleasant United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358255809,
+  "lat": 39.0448094,
+  "lon": -76.9931556,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "jehovahs_witness",
+    "ele": "125",
+    "gnis:feature_id": "2457683",
+    "name": "Kingdom Hall of Jehovah's Witnesses of Silver Spring",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358255821,
+  "lat": 38.9782370,
+  "lon": -77.0020340,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "83",
+    "gnis:feature_id": "2457707",
+    "name": "Marthoma Church of Greater Washington",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358255828,
+  "lat": 39.0583757,
+  "lon": -77.0852408,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "99",
+    "gnis:feature_id": "2457720",
+    "name": "Montgomery Chinese Baptist Mission",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358255854,
+  "lat": 39.0766447,
+  "lon": -77.1233688,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "110",
+    "name": "Living Faith Christian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358255861,
+  "lat": 38.9815000,
+  "lon": -76.9897000,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "41",
+    "gnis:feature_id": "2457928",
+    "name": "Bright Light Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358255871,
+  "lat": 39.2466661,
+  "lon": -77.2654458,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "202",
+    "gnis:feature_id": "2457943",
+    "name": "Cedar Brook Community Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358255880,
+  "lat": 38.9802330,
+  "lon": -77.0767560,
+  "tags": {
+    "amenity": "place_of_worship",
+    "check_date": "2024-05-11",
+    "denomination": "methodist",
+    "ele": "109",
+    "gnis:feature_id": "2457955",
+    "name": "Chevy Chase United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358255881,
+  "lat": 38.9866200,
+  "lon": -77.0138744,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "90",
+    "gnis:feature_id": "2457956",
+    "name": "Chinese Christian Church of Greater Washington District of Columbia",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358255889,
+  "lat": 39.2409000,
+  "lon": -77.2341000,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "lutheran",
+    "ele": "194",
+    "gnis:feature_id": "2457965",
+    "name": "Christ Lutheran Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358255899,
+  "lat": 38.9974648,
+  "lon": -77.0302781,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "christ_scientist",
+    "ele": "109",
+    "gnis:feature_id": "2457986",
+    "name": "Christian Science Reading Room",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358255900,
+  "lat": 39.0880180,
+  "lon": -77.2156780,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "136",
+    "gnis:feature_id": "2457991",
+    "name": "Church of God of Prophecy",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358255911,
+  "lat": 39.1404944,
+  "lon": -77.1824050,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "158",
+    "gnis:feature_id": "2457999",
+    "name": "Church of the Redeemer",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358255950,
+  "lat": 39.1538451,
+  "lon": -77.1500241,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "161",
+    "gnis:feature_id": "2458023",
+    "name": "Covenant Life Church",
+    "religion": "christian",
+    "wikidata": "Q5179001"
+  }
+},
+{
+  "type": "node",
+  "id": 358255953,
+  "lat": 39.0766530,
+  "lon": -77.1234160,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "110",
+    "name": "Living Faith Christian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358255987,
+  "lat": 39.1451136,
+  "lon": -77.1723130,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "160",
+    "gnis:feature_id": "2458069",
+    "name": "First African Methodist Episcopal Church of Gaithersburg",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256020,
+  "lat": 39.0983000,
+  "lon": -77.0036260,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "142",
+    "gnis:feature_id": "2458083",
+    "name": "First Hispanic Church of God",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256023,
+  "lat": 39.1133993,
+  "lon": -77.2722232,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "129",
+    "gnis:feature_id": "2458096",
+    "name": "Gaithersburg Chinese Alliance Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256042,
+  "lat": 39.1783942,
+  "lon": -77.1890581,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "126",
+    "gnis:feature_id": "2458110",
+    "name": "Goshen United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256054,
+  "lat": 39.1321020,
+  "lon": -77.0106970,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "133",
+    "gnis:feature_id": "2458133",
+    "name": "Hampshire View Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256066,
+  "lat": 39.0316630,
+  "lon": -77.0230080,
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "1704",
+    "addr:postcode": "20905",
+    "addr:state": "MD",
+    "addr:street": "Ednor Road",
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "113",
+    "email": "INFO@GETSEMANIUSA.ORG",
+    "fixme": "Wrong location",
+    "gnis:feature_id": "2458157",
+    "name": "Iglesia Bautista Getsemani",
+    "religion": "christian",
+    "service_times": "Su 12:00; We 20:00",
+    "website": "https://www.getsemaniusa.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 358256068,
+  "lat": 39.0741860,
+  "lon": -76.9592840,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "evangelical",
+    "ele": "122",
+    "gnis:feature_id": "2458160",
+    "name": "Iglesia Evangelica Apostoles y Profetas",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256072,
+  "lat": 39.0772820,
+  "lon": -76.9618950,
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "2337",
+    "addr:postcode": "20904",
+    "addr:state": "MD",
+    "addr:street": "Fairland Road",
+    "amenity": "place_of_worship",
+    "denomination": "oriental_orthodox",
+    "ele": "131",
+    "gnis:feature_id": "2458168",
+    "name": "Saint Gregorios Indian Orthodox Church",
+    "religion": "christian",
+    "service_times": "Sun: 08:30 AM to 11:00 AM"
+  }
+},
+{
+  "type": "node",
+  "id": 358256075,
+  "lat": 39.0472313,
+  "lon": -77.0653107,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "presbyterian",
+    "ele": "110",
+    "gnis:feature_id": "2458170",
+    "name": "Indonesian American Presbyterian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256077,
+  "lat": 39.1703444,
+  "lon": -77.1528250,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "163",
+    "gnis:feature_id": "2458171",
+    "name": "Interdenominational Church of God",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256087,
+  "lat": 39.1413273,
+  "lon": -77.1354927,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "ele": "134",
+    "gnis:feature_id": "2458181",
+    "name": "Saint Francis of Assisi Catholic Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256121,
+  "lat": 39.2462000,
+  "lon": -77.2337000,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "209",
+    "gnis:feature_id": "2458217",
+    "name": "Salem United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256127,
+  "lat": 39.1119970,
+  "lon": -77.0860570,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "presbyterian",
+    "ele": "125",
+    "gnis:feature_id": "2458224",
+    "name": "Segeroh Presbyterian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256132,
+  "lat": 39.0672400,
+  "lon": -77.1221990,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "116",
+    "gnis:feature_id": "2458227",
+    "name": "Seventh Day Adventist Rockville Spanish Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256180,
+  "lat": 39.3003000,
+  "lon": -77.2349000,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "218",
+    "gnis:feature_id": "2458269",
+    "name": "The Wesleyan Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256183,
+  "lat": 39.2751000,
+  "lon": -77.1568000,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "197",
+    "gnis:feature_id": "2458272",
+    "name": "Tri-County Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256201,
+  "lat": 39.0646540,
+  "lon": -77.1183890,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "109",
+    "gnis:feature_id": "2458286",
+    "name": "Twinbrook Community Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256214,
+  "lat": 39.2404000,
+  "lon": -77.2333000,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "ele": "195",
+    "gnis:feature_id": "2458300",
+    "name": "Upper Seneca Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256230,
+  "lat": 39.0609000,
+  "lon": -76.9989000,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "115",
+    "gnis:feature_id": "2458315",
+    "name": "Washington Spanish Seventh Day Adventist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256244,
+  "lat": 39.0471530,
+  "lon": -77.0655950,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "presbyterian",
+    "ele": "110",
+    "gnis:feature_id": "2458412",
+    "name": "Wheaton Presbyterian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256246,
+  "lat": 39.0722170,
+  "lon": -77.0999590,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "104",
+    "gnis:feature_id": "2458413",
+    "name": "Wheaton Woods Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256257,
+  "lat": 39.0907837,
+  "lon": -77.0482579,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "123",
+    "gnis:feature_id": "2458417",
+    "name": "Word of Life Gospel Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256288,
+  "lat": 38.9767533,
+  "lon": -76.9918367,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "55",
+    "gnis:feature_id": "2458697",
+    "name": "New Creation Gospel Center",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256295,
+  "lat": 39.0621401,
+  "lon": -76.9999419,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "118",
+    "gnis:feature_id": "2458700",
+    "name": "Washington Spanish SDA Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256318,
+  "lat": 39.1512424,
+  "lon": -77.1491546,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "154",
+    "gnis:feature_id": "2458710",
+    "name": "New Life Seventh Day Adventist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256333,
+  "lat": 39.0687870,
+  "lon": -77.0468640,
+  "tags": {
+    "addr:city": "Wheaton-Glenmont",
+    "addr:housenumber": "2206",
+    "addr:postcode": "20906",
+    "addr:state": "MD",
+    "addr:street": "Briggs Road",
+    "amenity": "place_of_worship",
+    "contact:facebook": "http://www.facebook.com/pages/Pilgrim-Church-United-Church-of-Christ/233986609950655",
+    "denomination": "united_church_of_christ",
+    "ele": "121",
+    "email": "pilgrimchurch2206@gmail.com",
+    "gnis:feature_id": "2458727",
+    "name": "Pilgrim United Church of Christ",
+    "religion": "christian",
+    "website": "https://pilgrimchurchucc.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 358256336,
+  "lat": 39.1145505,
+  "lon": -77.2458338,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "lutheran",
+    "ele": "125",
+    "gnis:feature_id": "2458730",
+    "name": "Prince of Peace Lutheran Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256339,
+  "lat": 38.9899958,
+  "lon": -77.0237067,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "105",
+    "gnis:feature_id": "2458735",
+    "name": "Redeemed Christian Church of God African Missions",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256355,
+  "lat": 39.0771000,
+  "lon": -76.9607000,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "ele": "125",
+    "gnis:feature_id": "2458745",
+    "name": "Roberts Memorial Free Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256359,
+  "lat": 39.0844930,
+  "lon": -77.1574820,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "presbyterian",
+    "ele": "143",
+    "gnis:feature_id": "2458747",
+    "name": "Rockville Presbyterian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 358256361,
+  "lat": 39.0860310,
+  "lon": -77.1699660,
+  "tags": {
+    "amenity": "place_of_worship",
+    "ele": "128",
+    "gnis:feature_id": "2458748",
+    "name": "Rockville Seventh Day Adventist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 633219979,
+  "lat": 38.9944552,
+  "lon": -77.0236191,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Jesus es el Senor",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 1824982451,
+  "lat": 39.1339808,
+  "lon": -77.1457873,
+  "tags": {
+    "addr:city": "Derwood",
+    "addr:housenumber": "16911",
+    "addr:postcode": "20855",
+    "addr:state": "MD",
+    "addr:street": "Redland Road",
+    "amenity": "place_of_worship",
+    "denomination": "presbyterian",
+    "name": "Shady Grove Presbyterian Church",
+    "religion": "christian",
+    "service_times": "10:45"
+  }
+},
+{
+  "type": "node",
+  "id": 1900991900,
+  "lat": 39.1337376,
+  "lon": -77.2024572,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "First Assembly of God",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 1909693513,
+  "lat": 39.1513433,
+  "lon": -77.1062419,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "presbyterian",
+    "name": "New Hope Presbyterian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 2532454400,
+  "lat": 39.1400330,
+  "lon": -77.2253640,
+  "tags": {
+    "addr:city": "Gaithersburg",
+    "addr:housenumber": "13",
+    "addr:postcode": "20878",
+    "addr:street": "Firstfield Road",
+    "amenity": "place_of_worship",
+    "email": "mailto:info@senecacreek.org",
+    "name": "Seneca Creek Community Church",
+    "phone": "+1-301-355-6550",
+    "religion": "christian",
+    "website": "https://senecacreek.org"
+  }
+},
+{
+  "type": "node",
+  "id": 2625491695,
+  "lat": 39.1098429,
+  "lon": -77.0813790,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Waves of Glory Worship Center, Inc.",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 3266020588,
+  "lat": 38.9931916,
+  "lon": -77.0515296,
+  "tags": {
+    "addr:city": "Chevy Chase",
+    "addr:postcode": "20815",
+    "addr:street": "Colston Drive",
+    "amenity": "place_of_worship",
+    "check_date": "2024-05-11",
+    "denomination": "methodist",
+    "name": "Saint Paul United Methodist Church",
+    "phone": "+1-301-587-5370",
+    "religion": "christian",
+    "website": "http://stpaulumc-chevychase.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 3546344851,
+  "lat": 39.0879824,
+  "lon": -77.1725004,
+  "tags": {
+    "addr:city": "Rockville",
+    "addr:housenumber": "100",
+    "addr:postcode": "20850",
+    "addr:state": "MD",
+    "addr:street": "Nelson Street",
+    "amenity": "place_of_worship",
+    "denomination": "protestant",
+    "name": "First Church of Christ, Scientist",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 3669115777,
+  "lat": 39.1307761,
+  "lon": -77.0667725,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Streams of Hope",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 5109465285,
+  "lat": 39.1297815,
+  "lon": -76.9910191,
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "16631",
+    "addr:postcode": "20905",
+    "addr:state": "MD",
+    "addr:street": "New Hampshire Avenue",
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "name": "Ukrainian Catholic Church of The Holy Trinity",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 6302406419,
+  "lat": 39.0630953,
+  "lon": -76.9994927,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "New Hampshire Ave Gospel Chapel",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 6576932560,
+  "lat": 38.9847965,
+  "lon": -77.0919183,
+  "tags": {
+    "amenity": "place_of_worship",
+    "disused": "yes",
+    "name": "Christan Science Reading Room",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 6600274548,
+  "lat": 39.0658563,
+  "lon": -76.9421332,
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "3106",
+    "addr:postcode": "20904",
+    "addr:state": "MD",
+    "addr:street": "Fairland Road",
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "name": "Abyssinia Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 6833071427,
+  "lat": 39.1100017,
+  "lon": -76.9359254,
+  "tags": {
+    "addr:city": "Burtonsville",
+    "addr:housenumber": "15458",
+    "addr:street": "Old Columbia Pike",
+    "amenity": "place_of_worship",
+    "name": "El Rey Jesus",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 8905247426,
+  "lat": 39.0562427,
+  "lon": -77.0493832,
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "12247",
+    "addr:postcode": "20902",
+    "addr:state": "MD",
+    "addr:street": "Georgia Avenue",
+    "amenity": "place_of_worship",
+    "denomination": "roman_catholic",
+    "name": "Misión San Andrés Iglesia Católica",
+    "phone": "+1 301 202 9496",
+    "religion": "christian",
+    "website": "https://misionsanandres.org/"
+  }
+},
+{
+  "type": "node",
+  "id": 10908566720,
+  "lat": 39.0321829,
+  "lon": -77.0234960,
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "818",
+    "addr:postcode": "20901",
+    "addr:state": "MD",
+    "addr:street": "University Boulevard West",
+    "amenity": "place_of_worship",
+    "denomination": "episcopal",
+    "name": "Misión Buen Pastor",
+    "religion": "christian",
+    "service_times": "Su 13:00"
+  }
+},
+{
+  "type": "node",
+  "id": 11593699823,
+  "lat": 39.1189048,
+  "lon": -77.1901667,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Sustaining Word Ministries",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 11810259881,
+  "lat": 39.1062577,
+  "lon": -76.9406844,
+  "tags": {
+    "addr:city": "Burtonsville",
+    "addr:housenumber": "3411",
+    "addr:postcode": "20866",
+    "addr:state": "MD",
+    "addr:street": "Spencerville Road",
+    "amenity": "place_of_worship",
+    "denomination": "baptist",
+    "name": "Renaissance Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 12388485563,
+  "lat": 39.1890141,
+  "lon": -77.2684676,
+  "tags": {
+    "addr:housenumber": "13100",
+    "addr:street": "Waters Landing Drive",
+    "amenity": "place_of_worship",
+    "contact:youtube": "https://m.youtube.com/@joyfulhousechurch1303",
+    "language:en": "yes",
+    "language:es": "main",
+    "name": "Joyful House Church",
+    "phone": "+1 240-483-5949",
+    "religion": "christian",
+    "service_times": "Sun 10:00-12:00",
+    "website": "https://joyfulhousechurch.org"
+  }
+},
+{
+  "type": "node",
+  "id": 12751070889,
+  "lat": 38.9914627,
+  "lon": -77.0242783,
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "8120",
+    "addr:postcode": "20910",
+    "addr:state": "MD",
+    "addr:street": "Fenton Street",
+    "addr:unit": "201A",
+    "amenity": "place_of_worship",
+    "denomination": "pentecostal",
+    "email": "rpngcmd@gmail.com",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRL6U20GTlhE0AuviPjVVfdOR9GC-RJrn9ng&s",
+    "mobile": "+1-240-731-6181",
+    "name": "RESURRECTION POWER NEW GENERATION CHURCH INT.",
+    "opening_hours": "Su 08:00-11:30",
+    "religion": "christian",
+    "service_times": "Sunday Service 8:00 AM - 11:30 AM, Bible Studies(On Phone) Tuesday 9:00 PM - 10:00 PM,  Bible Studies(On Phone-Prayer meeting) Friday 9:00 PM - 10:00 PM,"
+  }
+},
+{
+  "type": "node",
+  "id": 12878137419,
+  "lat": 39.1070190,
+  "lon": -76.9380006,
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Southern Bethany Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 38738898,
+  "center": {
+    "lat": 38.9882243,
+    "lon": -77.0278711
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "pentecostal",
+    "name": "Iglesia De Dios Pentecostal",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 38744961,
+  "center": {
+    "lat": 39.0049722,
+    "lon": -77.0237857
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "check_date": "2023-10-02",
+    "denomination": "lutheran",
+    "name": "Saint Lukes Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 38744962,
+  "center": {
+    "lat": 39.0073939,
+    "lon": -77.0217010
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "methodist",
+    "name": "Memorial First Indian United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 38744979,
+  "center": {
+    "lat": 39.0118938,
+    "lon": -77.0407686
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "9545",
+    "addr:postcode": "20910",
+    "addr:state": "MD",
+    "addr:street": "Georgia Avenue",
+    "amenity": "place_of_worship",
+    "contact:facebook": "https://www.facebook.com/CalvarySilverSpring",
+    "denomination": "lutheran",
+    "ele": "110",
+    "gnis:feature_id": "593148",
+    "landuse": "religious",
+    "name": "Calvary Lutheran Church",
+    "phone": "+1 301-589-4001",
+    "religion": "christian",
+    "website": "https://calvarysilverspring.org"
+  }
+},
+{
+  "type": "way",
+  "id": 45090402,
+  "center": {
+    "lat": 39.1441410,
+    "lon": -77.0664645
+  },
+  "tags": {
+    "addr:city": "Olney",
+    "addr:housenumber": "17525",
+    "addr:postcode": "20832",
+    "addr:state": "MD",
+    "addr:street": "Georgia Avenue",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "check_date": "2025-02-03",
+    "contact:facebook": "https://www.facebook.com/OlneyBaptist/",
+    "denomination": "baptist",
+    "name": "Olney Baptist Church",
+    "religion": "christian",
+    "service_times": "Su 10:00",
+    "url": "http://www.olneybaptistchurch.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 45182813,
+  "center": {
+    "lat": 39.1472653,
+    "lon": -77.0505989
+  },
+  "tags": {
+    "addr:city": "Olney",
+    "addr:housenumber": "17700",
+    "addr:postcode": "20832",
+    "addr:state": "MD",
+    "addr:street": "Old Baltimore Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "mormon",
+    "name": "The Church of Jesus Christ of Latter-day Saints",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 45182814,
+  "center": {
+    "lat": 39.1454148,
+    "lon": -77.0505997
+  },
+  "tags": {
+    "addr:city": "Olney",
+    "addr:housenumber": "17615",
+    "addr:postcode": "20832",
+    "addr:state": "MD",
+    "addr:street": "Old Baltimore Road",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "catholic",
+    "name": "Saint Andrew Kim Catholic Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 45217893,
+  "center": {
+    "lat": 39.1793483,
+    "lon": -77.0584229
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "methodist",
+    "name": "Salem United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 46945084,
+  "center": {
+    "lat": 39.0818485,
+    "lon": -77.1445845
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "catholic",
+    "name": "Saint Mary's Catholic Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 46945588,
+  "center": {
+    "lat": 39.1085661,
+    "lon": -77.0821912
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "catholic",
+    "name": "Saint Patrick's Catholic Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 47281585,
+  "center": {
+    "lat": 39.0137550,
+    "lon": -77.0846289
+  },
+  "tags": {
+    "addr:city": "Kensington",
+    "addr:housenumber": "9705",
+    "addr:postcode": "20895",
+    "addr:state": "MD",
+    "addr:street": "Summit Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "catholic",
+    "ele": "92",
+    "gnis:feature_id": "593128",
+    "name": "Holy Redeemer Church",
+    "phone": "+1 301 942 2333",
+    "religion": "christian",
+    "service_times": "Su 07:30,09:30,11:30; Mo-Fr 06:45,09:00; Sa 08:30,17:30; ",
+    "website": "https://hrkensington.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 47411627,
+  "center": {
+    "lat": 39.1620879,
+    "lon": -77.0817355
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "seventh_day_adventist",
+    "name": "Olney Seventh Day Adventist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 47441321,
+  "center": {
+    "lat": 39.1642483,
+    "lon": -77.0837852
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "lutheran",
+    "name": "Lutheran Church of the Good Shepherd",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 47470439,
+  "center": {
+    "lat": 39.1565497,
+    "lon": -77.0730442
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Refuge Church of Christ",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 49872859,
+  "center": {
+    "lat": 39.0357268,
+    "lon": -77.0288022
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "1200",
+    "addr:postcode": "20902",
+    "addr:state": "MD",
+    "addr:street": "University Boulevard West",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "presbyterian",
+    "ele": "107",
+    "email": "office@northwoodchurch.com",
+    "gnis:feature_id": "593161",
+    "name": "Northwood Presbyterian Church",
+    "phone": "+1 301 593 1180",
+    "religion": "christian",
+    "service_times": "Su 10:00",
+    "website": "https://www.northwoodchurch.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 62377452,
+  "center": {
+    "lat": 39.1482295,
+    "lon": -77.0623289
+  },
+  "tags": {
+    "addr:housenumber": "2900",
+    "addr:postcode": "20832",
+    "addr:street": "Olney Sandy Spring Road",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "catholic",
+    "ele": "158",
+    "gnis:feature_id": "593072",
+    "name": "Saint Peters Catholic Church",
+    "phone": "+1 301 924 3774",
+    "religion": "christian",
+    "website": "https://www.stpetersolney.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 63464810,
+  "center": {
+    "lat": 39.1549069,
+    "lon": -77.0685823
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "episcopal",
+    "name": "St John's Episcopal Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 63939779,
+  "center": {
+    "lat": 39.1472032,
+    "lon": -77.4165450
+  },
+  "tags": {
+    "addr:city": "Poolesville",
+    "addr:housenumber": "17800",
+    "addr:postcode": "20837",
+    "addr:state": "MD",
+    "addr:street": "Elgin Road",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "presbyterian",
+    "name": "Poolesville Presbyterian Church",
+    "phone": "+1-301-972-7452",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 63939818,
+  "center": {
+    "lat": 39.1461608,
+    "lon": -77.4194904
+  },
+  "tags": {
+    "addr:city": "Poolesville",
+    "addr:housenumber": "20100",
+    "addr:postcode": "20837",
+    "addr:state": "MD",
+    "addr:street": "Fisher Avenue",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "episcopal",
+    "name": "Saint Peter's Episcopal Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 64353640,
+  "center": {
+    "lat": 39.1355466,
+    "lon": -77.0703658
+  },
+  "tags": {
+    "addr:city": "Olney",
+    "addr:housenumber": "17020",
+    "addr:postcode": "20832",
+    "addr:state": "MD",
+    "addr:street": "Georgia Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Church of Christ at Olney",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 64589946,
+  "center": {
+    "lat": 39.0497432,
+    "lon": -76.9945728
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "11814",
+    "addr:postcode": "20904",
+    "addr:state": "MD",
+    "addr:street": "New Hampshire Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "roman_catholic",
+    "ele": "112",
+    "gnis:feature_id": "2458721",
+    "name": "Our Lady of Vietnam Catholic Church",
+    "name:vi": "Giáo Xứ Mẹ Việt Nam",
+    "phone": "+1 301 622 4895",
+    "religion": "christian",
+    "service_times": "Su 09:00; Mo-Sa 19:00",
+    "website": "https://olvn-dc.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 65066891,
+  "center": {
+    "lat": 39.1845867,
+    "lon": -77.1014577
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "methodist",
+    "name": "Mount Zion United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 65251209,
+  "center": {
+    "lat": 39.0935932,
+    "lon": -77.0023621
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "ele": "148",
+    "name": "First Alliance Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 68309598,
+  "center": {
+    "lat": 39.0804083,
+    "lon": -77.0831187
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "baptist",
+    "name": "Montgomery Korean Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 69200176,
+  "center": {
+    "lat": 39.1410398,
+    "lon": -77.2066516
+  },
+  "tags": {
+    "addr:city": "Gaithersburg",
+    "addr:housenumber": "200",
+    "addr:postcode": "20877",
+    "addr:state": "MD",
+    "addr:street": "West Diamond Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "building:levels": "2",
+    "denomination": "baptist",
+    "name": "Pathways Baptist Church",
+    "religion": "christian",
+    "service_times": "Su 10:30-11:55"
+  }
+},
+{
+  "type": "way",
+  "id": 69200178,
+  "center": {
+    "lat": 39.1385914,
+    "lon": -77.1943658
+  },
+  "tags": {
+    "addr:city": "Gaithersburg",
+    "addr:housenumber": "201",
+    "addr:postcode": "20877",
+    "addr:state": "MD",
+    "addr:street": "South Frederick Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "roman_catholic",
+    "ele": "155",
+    "email": "parish@stmartinsweb.org",
+    "fax": "+1 301 990 7538",
+    "gnis:feature_id": "593272",
+    "name": "Saint Martin of Tours Catholic Church",
+    "opening_hours": "Mo-Fr 09:00-17:00",
+    "phone": "+1 301 990 3203",
+    "religion": "christian",
+    "website": "https://www.stmartinsweb.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 70946560,
+  "center": {
+    "lat": 39.0320140,
+    "lon": -77.0235774
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "818",
+    "addr:postcode": "20901",
+    "addr:state": "MD",
+    "addr:street": "University Boulevard West",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "episcopal",
+    "ele": "112",
+    "gnis:feature_id": "2458109",
+    "name": "Good Shepherd Episcopal Church",
+    "phone": "+1 301 593 3282",
+    "religion": "christian",
+    "service_times": "We 11:30; Su 10:30; ",
+    "website": "https://www.gsecmd.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 71369138,
+  "center": {
+    "lat": 39.1643566,
+    "lon": -77.2262526
+  },
+  "tags": {
+    "addr:housenumber": "18757",
+    "addr:street": "North Frederick Avenue",
+    "amenity": "place_of_worship",
+    "branch": "Gaithersburg",
+    "building": "commercial",
+    "name": "Chinese Bible Church of Maryland",
+    "name:zh-Hans": "马利兰中华圣经教会",
+    "name:zh-Hant": "馬利蘭中華聖經教會",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 73416391,
+  "center": {
+    "lat": 38.9507418,
+    "lon": -77.1024528
+  },
+  "tags": {
+    "addr:city": "Bethesda",
+    "addr:housenumber": "5144",
+    "addr:postcode": "20816",
+    "addr:street": "Massachusetts Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "baptist",
+    "ele": "83",
+    "gnis:feature_id": "593045",
+    "name": "Washington Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 73416405,
+  "center": {
+    "lat": 38.9494828,
+    "lon": -77.1019176
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "ele": "85",
+    "gnis:feature_id": "2458317",
+    "name": "Westmoreland Congregational United Church of Christ",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 87324809,
+  "center": {
+    "lat": 39.0140519,
+    "lon": -77.0656083
+  },
+  "tags": {
+    "addr:housenumber": "9900",
+    "addr:postcode": "20895",
+    "addr:street": "Stoneybrook Drive",
+    "amenity": "place_of_worship",
+    "building": "temple",
+    "building:colour": "white",
+    "check_date": "2023-08-26",
+    "denomination": "mormon",
+    "height": "44",
+    "name": "Washington D.C. Temple",
+    "operator": "The Church of Jesus Christ of Latter-day Saints",
+    "religion": "christian",
+    "roof:colour": "grey",
+    "roof:shape": "flat",
+    "short_name": "Mormon Temple",
+    "website": "https://www.churchofjesuschrist.org/temples/details/washington-d.c.-temple?lang=eng",
+    "wheelchair": "yes",
+    "wikidata": "Q1810883",
+    "wikipedia": "en:Washington D.C. Temple"
+  }
+},
+{
+  "type": "way",
+  "id": 89176010,
+  "center": {
+    "lat": 38.9769895,
+    "lon": -77.0128655
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "presbyterian",
+    "ele": "85",
+    "generator:method": "photovoltaic",
+    "generator:output:electricity": "yes",
+    "generator:source": "solar",
+    "generator:type": "solar_photovoltaic_panel",
+    "gnis:feature_id": "2458252",
+    "location": "roof",
+    "name": "Takoma Park Presbyterian Church",
+    "power": "generator",
+    "religion": "christian",
+    "wikidata": "Q22319879",
+    "wikipedia": "en:Takoma Park Presbyterian Church"
+  }
+},
+{
+  "type": "way",
+  "id": 89361664,
+  "center": {
+    "lat": 39.0060002,
+    "lon": -77.0374157
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "episcopal",
+    "name": "Grace Episcopal Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 89365299,
+  "center": {
+    "lat": 39.0151349,
+    "lon": -77.0420859
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "baptist",
+    "ele": "110",
+    "gnis:feature_id": "593160",
+    "name": "Montgomery Hills Baptist Church",
+    "religion": "christian",
+    "wikidata": "Q79972441"
+  }
+},
+{
+  "type": "way",
+  "id": 90392798,
+  "center": {
+    "lat": 38.9922706,
+    "lon": -77.0276408
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:postcode": "20910",
+    "addr:state": "MD",
+    "addr:street": "Ripley Street",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Addis Lidet International Chucrh",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 95549553,
+  "center": {
+    "lat": 39.1705550,
+    "lon": -77.1194964
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Rock Creek Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 95600676,
+  "center": {
+    "lat": 39.0140311,
+    "lon": -77.0183258
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "presbyterian",
+    "name": "Knox Orthodox Presbyterian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 96237285,
+  "center": {
+    "lat": 39.0260733,
+    "lon": -77.0368094
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "baptist",
+    "ele": "107",
+    "gnis:feature_id": "2458237",
+    "name": "Sligo Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 96496734,
+  "center": {
+    "lat": 39.0201574,
+    "lon": -77.0087951
+  },
+  "tags": {
+    "addr:housenumber": "70",
+    "addr:postcode": "20901",
+    "addr:street": "University Boulevard East",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "catholic",
+    "name": "Saint Bernadette Catholic Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 96500826,
+  "center": {
+    "lat": 39.0159991,
+    "lon": -77.0515469
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "9700",
+    "addr:postcode": "20910",
+    "addr:state": "MD",
+    "addr:street": "Rosensteel Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "roman_catholic",
+    "name": "Our Lady Queen of Poland/Saint Maxmilian Kolbe",
+    "religion": "christian",
+    "service_times": "Su 08:00,10:00,12:00; Mo-Fr 07:30; Sa 08:00",
+    "website": "https://www.parafia-dc.org",
+    "wikidata": "Q11803961"
+  }
+},
+{
+  "type": "way",
+  "id": 107689295,
+  "center": {
+    "lat": 39.1822124,
+    "lon": -77.3152426
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "name": "Boyds Presbyterian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 112114125,
+  "center": {
+    "lat": 38.9895219,
+    "lon": -77.0766942
+  },
+  "tags": {
+    "addr:city": "Chevy Chase",
+    "addr:housenumber": "7901",
+    "addr:postcode": "20815",
+    "addr:state": "MD",
+    "addr:street": "Connecticut Avenue",
+    "amenity": "place_of_worship",
+    "building": "religious",
+    "denomination": "christ_scientist",
+    "name": "Christian Science Society, Chevy Chase",
+    "religion": "christian",
+    "website": "https://www.cschevychase.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 112379071,
+  "center": {
+    "lat": 39.0315396,
+    "lon": -77.0797701
+  },
+  "tags": {
+    "addr:city": "Kensington",
+    "addr:housenumber": "3922",
+    "addr:postcode": "20895",
+    "addr:state": "MD",
+    "addr:street": "Hampden Street",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "building:levels": "2",
+    "check_date": "2023-11-05",
+    "denomination": "baptist",
+    "ele": "90",
+    "gnis:feature_id": "2458070",
+    "name": "First Baptist Church of Ken-Gar",
+    "opening_hours:covid19": "off",
+    "phone": "+1-301-942-3423",
+    "religion": "christian",
+    "roof:shape": "gabled",
+    "service_times": "Su 09:30,11:00 We 19:00",
+    "website": "http://www.fbcofkengar.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 112379113,
+  "center": {
+    "lat": 39.0317366,
+    "lon": -77.0813254
+  },
+  "tags": {
+    "addr:housenumber": "4115",
+    "addr:street": "Plyers Mill Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "methodist",
+    "ele": "90",
+    "gnis:feature_id": "2457692",
+    "name": "Lee Memorial African Methodist Episcopal Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 112621373,
+  "center": {
+    "lat": 39.1913866,
+    "lon": -77.1022021
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 117592028,
+  "center": {
+    "lat": 38.9875705,
+    "lon": -77.1002958
+  },
+  "tags": {
+    "addr:housenumber": "5033",
+    "addr:street": "Wilson Lane",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "description": "Formerly known as Bethesda First Baptist Church",
+    "name": "The Church in Bethesda",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 117593528,
+  "center": {
+    "lat": 38.9775769,
+    "lon": -77.0902118
+  },
+  "tags": {
+    "addr:housenumber": "6701",
+    "addr:street": "Wisconsin Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "episcopal",
+    "name": "Saint John's Episcopal Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 120609430,
+  "center": {
+    "lat": 39.0227168,
+    "lon": -77.0758297
+  },
+  "tags": {
+    "addr:city": "Kensington",
+    "addr:housenumber": "10123",
+    "addr:postcode": "20895",
+    "addr:state": "MD",
+    "addr:street": "Connecticut Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "check_date": "2023-08-01",
+    "denomination": "presbyterian",
+    "name": "Warner Memorial Presbyterian Church",
+    "religion": "christian",
+    "service_times": "Su 11:00",
+    "website": "http://www.warnermemorial.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 121683722,
+  "center": {
+    "lat": 39.0182143,
+    "lon": -77.0649388
+  },
+  "tags": {
+    "addr:city": "Kensington",
+    "addr:housenumber": "10000",
+    "addr:postcode": "20895",
+    "addr:state": "MD",
+    "addr:street": "Stoneybrook Drive",
+    "air_conditioning": "yes",
+    "alt_name": "Stake Center",
+    "amenity": "place_of_worship",
+    "baby_feeding": "room",
+    "building": "church",
+    "building:levels": "1",
+    "building:material": "brick",
+    "denomination": "mormon",
+    "name": "The Church of Jesus Christ of Latter-day Saints",
+    "religion": "christian",
+    "roof:colour": "grey",
+    "roof:shape": "mansard"
+  }
+},
+{
+  "type": "way",
+  "id": 122083620,
+  "center": {
+    "lat": 39.0903412,
+    "lon": -77.0648833
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "3132",
+    "addr:postcode": "20906",
+    "addr:state": "MD",
+    "addr:street": "Bel Pre Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "seventh_day_adventist",
+    "elevation": "131",
+    "email": "contact@wheatonsda.org",
+    "facebook": "https://www.facebook.com/wheatonsda",
+    "gnis:feature_id": "1713249",
+    "name": "Wheaton Seventh-day Adventist Church",
+    "phone": "+1-301-871-6110",
+    "religion": "christian",
+    "website": "https://www.wheatonsda.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 122157786,
+  "center": {
+    "lat": 39.0632338,
+    "lon": -77.0539096
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "12525",
+    "addr:postcode": "20906",
+    "addr:state": "MD",
+    "addr:street": "Georgia Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "contact:facebook": "https://www.facebook.com/GeorgiaAvenueBaptistChurch/",
+    "contact:yelp": "https://www.yelp.com/biz/georgia-avenue-baptist-church-silver-spring",
+    "denomination": "baptist",
+    "email": "gabc@gabc.comcastbiz.net",
+    "fax": "+1-301-946-1333",
+    "name": "Georgia Avenue Baptist Church",
+    "phone": "+1-301-946-1331",
+    "religion": "christian",
+    "service_times": "Su 08:30-09:30; Su 11:00-12:00",
+    "start_date": "1956",
+    "website": "https://www.gabcglenmont.org/",
+    "wikidata": "Q66475293"
+  }
+},
+{
+  "type": "way",
+  "id": 122480595,
+  "center": {
+    "lat": 39.0186846,
+    "lon": -77.0787958
+  },
+  "tags": {
+    "addr:city": "Kensington",
+    "addr:housenumber": "4001",
+    "addr:postcode": "20895",
+    "addr:state": "MD",
+    "addr:street": "Franklin Street",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "episcopal",
+    "email": "info@ccpk.org",
+    "name": "Christ Episcopal Church",
+    "phone": "+1 301 942 4673",
+    "religion": "christian",
+    "service_times": "Su 08:00,10:00,17:00",
+    "website": "https://christchurchkensington.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 126818862,
+  "center": {
+    "lat": 39.1931506,
+    "lon": -77.0271712
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "episcopal",
+    "ele": "148",
+    "gnis:feature_id": "1712831",
+    "name": "Saint Luke's Episcopal Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 126927358,
+  "center": {
+    "lat": 39.2215450,
+    "lon": -77.0602201
+  },
+  "tags": {
+    "addr:city": "Brookeville",
+    "addr:housenumber": "22222",
+    "addr:postcode": "20833",
+    "addr:state": "MD",
+    "addr:street": "Georgia Avenue",
+    "alt_name": "Mt Carmel United Methodist Church",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "methodist",
+    "ele": "158",
+    "gnis:feature_id": "593067",
+    "name": "Mount Carmel Church",
+    "religion": "christian",
+    "source": "USGS Ortho"
+  }
+},
+{
+  "type": "way",
+  "id": 127779090,
+  "center": {
+    "lat": 39.1403545,
+    "lon": -77.0591082
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "presbyterian",
+    "ele": "152",
+    "gnis:feature_id": "2458063",
+    "name": "Faith Presbyterian Church of Olney",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 128757297,
+  "center": {
+    "lat": 39.0089727,
+    "lon": -77.0456778
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "2106",
+    "addr:postcode": "20910",
+    "addr:state": "MD",
+    "addr:street": "Linden Lane",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "pentecostal",
+    "ele": "114",
+    "gnis:feature_id": "2457993",
+    "name": "Silver Spring Church of God",
+    "phone": "+1 301 608 9597",
+    "religion": "christian",
+    "website": "https://silverspringchurchofgod.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 128948425,
+  "center": {
+    "lat": 39.1912169,
+    "lon": -77.1019936
+  },
+  "tags": {
+    "addr:housenumber": "20400",
+    "addr:street": "Zion Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 129660912,
+  "center": {
+    "lat": 38.9946849,
+    "lon": -77.0485080
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "catholic",
+    "ele": "84",
+    "gnis:feature_id": "593035",
+    "name": "Christ the King Catholic Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 129999432,
+  "center": {
+    "lat": 39.0224685,
+    "lon": -77.0444444
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "catholic",
+    "name": "Saint John the Evangelist Church",
+    "religion": "christian",
+    "wikidata": "Q7588987",
+    "wikipedia": "en:St. John the Evangelist Catholic Church (Silver Spring, Maryland)"
+  }
+},
+{
+  "type": "way",
+  "id": 136150593,
+  "center": {
+    "lat": 38.9869060,
+    "lon": -77.1005814
+  },
+  "tags": {
+    "addr:city": "Bethesda",
+    "addr:housenumber": "7611",
+    "addr:postcode": "20814",
+    "addr:state": "MD",
+    "addr:street": "Clarendon Road",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "presbyterian",
+    "ele": "106",
+    "gnis:feature_id": "2459434",
+    "name": "Bethesda Presbyterian Church",
+    "religion": "christian",
+    "website": "https://bethesdapresbyterian.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 136150594,
+  "center": {
+    "lat": 38.9857444,
+    "lon": -77.1004654
+  },
+  "tags": {
+    "addr:city": "Bethesda",
+    "addr:housenumber": "5016",
+    "addr:postcode": "20814",
+    "addr:street": "Moorland Lane",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "ele": "107",
+    "gnis:feature_id": "2458314",
+    "name": "Washington Japanese Christian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 142814166,
+  "center": {
+    "lat": 39.0406520,
+    "lon": -77.0472735
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "check_date": "2023-09-28",
+    "ele": "124",
+    "gnis:feature_id": "2457938",
+    "name": "Canaan Christian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 143519831,
+  "center": {
+    "lat": 39.1061677,
+    "lon": -77.0028461
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "disciples_of_christ",
+    "ele": "155",
+    "gnis:feature_id": "1713150",
+    "name": "Heritage Christian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 143519835,
+  "center": {
+    "lat": 39.1041320,
+    "lon": -77.0038081
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "15100",
+    "addr:postcode": "20905",
+    "addr:state": "MD",
+    "addr:street": "New Hampshire Avenue",
+    "amenity": "place_of_worship",
+    "denomination": "orthodox",
+    "name": "Saint Andrew Ukrainian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 143519951,
+  "center": {
+    "lat": 39.1081573,
+    "lon": -77.0027915
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "baptist",
+    "ele": "155",
+    "gnis:feature_id": "2458267",
+    "name": "The Peoples Community Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 143519953,
+  "center": {
+    "lat": 39.1074613,
+    "lon": -77.0016602
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "15300",
+    "addr:postcode": "20905",
+    "addr:state": "MD",
+    "addr:street": "New Hampshire Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Lutheran Church of Saint Andrew",
+    "phone": "+1 301-384-4394",
+    "religion": "christian",
+    "website": "https://mystandrew.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 143655855,
+  "center": {
+    "lat": 39.0543324,
+    "lon": -77.1368304
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "catholic",
+    "ele": "105",
+    "gnis:feature_id": "593336",
+    "name": "Saint Elizabeths Catholic Church",
+    "religion": "christian",
+    "wikidata": "Q65614037"
+  }
+},
+{
+  "type": "way",
+  "id": 151213066,
+  "center": {
+    "lat": 39.1498838,
+    "lon": -77.2417846
+  },
+  "tags": {
+    "addr:city": "Gaithersburg",
+    "addr:housenumber": "11701",
+    "addr:postcode": "20878-1024",
+    "addr:state": "MD",
+    "addr:street": "Clopper Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "contact:email": "strose@strose.com",
+    "contact:fax": "+1 301 869 2170",
+    "contact:phone": "+1 301 948 7545",
+    "contact:website": "http://www.strose-parish.org/",
+    "gnis:feature_id": "593250",
+    "name": "St. Rose of Lima Church",
+    "polling_station": "yes",
+    "religion": "christian",
+    "wikidata": "Q7591636",
+    "wikipedia": "en:St. Rose of Lima Catholic Church (Gaithersburg, Maryland)"
+  }
+},
+{
+  "type": "way",
+  "id": 151363214,
+  "center": {
+    "lat": 39.1312480,
+    "lon": -77.1815766
+  },
+  "tags": {
+    "addr:housenumber": "609",
+    "addr:street": "Paradise Court",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "jehovahs_witness",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 156156624,
+  "center": {
+    "lat": 39.1730316,
+    "lon": -77.2027014
+  },
+  "tags": {
+    "addr:housenumber": "9801",
+    "addr:street": "Centerway Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "ele": "129",
+    "gnis:feature_id": "2457970",
+    "name": "Christ the Servant Lutheran Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 161809844,
+  "center": {
+    "lat": 39.2828526,
+    "lon": -77.1932823
+  },
+  "tags": {
+    "addr:housenumber": "9240",
+    "addr:street": "Damascus Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "roman_catholic",
+    "ele": "251",
+    "gnis:feature_id": "1712511",
+    "name": "Saint Paul Catholic Church",
+    "phone": "+1 301 253 3027",
+    "religion": "christian",
+    "website": "https://www.stpauldamascus.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 165513787,
+  "center": {
+    "lat": 39.2850100,
+    "lon": -77.3140580
+  },
+  "tags": {
+    "addr:country": "US",
+    "addr:housenumber": "26121",
+    "addr:state": "MD",
+    "addr:street": "Frederick Road",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "methodist",
+    "ele": "142",
+    "gnis:feature_id": "1712493",
+    "name": "Hyattstown United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 166531124,
+  "center": {
+    "lat": 39.2171985,
+    "lon": -77.2533377
+  },
+  "tags": {
+    "addr:city": "Boyds",
+    "addr:housenumber": "21925",
+    "addr:postcode": "20841",
+    "addr:state": "MD",
+    "addr:street": "Frederick Road",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "baptist",
+    "ele": "169",
+    "gnis:feature_id": "593027",
+    "name": "Greenridge Baptist Church",
+    "religion": "christian",
+    "website": "https://www.greenridgebaptist.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 167296664,
+  "center": {
+    "lat": 39.1609869,
+    "lon": -77.2781672
+  },
+  "tags": {
+    "addr:city": "Germantown",
+    "addr:housenumber": "13421",
+    "addr:street": "Clopper Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "church_of_christ",
+    "name": "United Church of Christ of Seneca Valley",
+    "religion": "christian",
+    "website": "http://www.uccsv.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 167402383,
+  "center": {
+    "lat": 39.1625614,
+    "lon": -77.2844830
+  },
+  "tags": {
+    "addr:city": "Germantown",
+    "addr:housenumber": "13700",
+    "addr:street": "Schaeffer Road",
+    "amenity": "place_of_worship",
+    "denomination": "methodist",
+    "name": "Trinity United Methodist Church",
+    "religion": "christian",
+    "source": "MCGovt",
+    "website": "https://trinity-germantown.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 167923917,
+  "center": {
+    "lat": 39.1663202,
+    "lon": -77.2892071
+  },
+  "tags": {
+    "addr:city": "Germantown",
+    "addr:housenumber": "13901",
+    "addr:street": "Clopper Road",
+    "amenity": "place_of_worship",
+    "denomination": "lutheran",
+    "name": "Messiah Lutheran Church",
+    "religion": "christian",
+    "website": "https://www.messiahlutherangermantown.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 167923918,
+  "center": {
+    "lat": 39.1657545,
+    "lon": -77.2876778
+  },
+  "tags": {
+    "addr:city": "Germantown",
+    "addr:housenumber": "18900",
+    "addr:street": "Kingsview Road",
+    "amenity": "place_of_worship",
+    "denomination": "mormon",
+    "name": "The Church of Jesus Christ of Latter-day Saints",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 168119747,
+  "center": {
+    "lat": 39.1830057,
+    "lon": -77.2732310
+  },
+  "tags": {
+    "addr:housenumber": "19951",
+    "addr:street": "Father Hurley Boulevard",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "catholic",
+    "name": "Mother Seton Catholic Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 170017425,
+  "center": {
+    "lat": 39.1178961,
+    "lon": -77.2456715
+  },
+  "tags": {
+    "addr:housenumber": "16",
+    "addr:street": "Kent Gardens Circle",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "mormon",
+    "ele": "130",
+    "gnis:feature_id": "2458263",
+    "name": "The Church of Jesus Christ of Latter-day Saints",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 176952596,
+  "center": {
+    "lat": 39.1414123,
+    "lon": -77.1761489
+  },
+  "tags": {
+    "addr:housenumber": "303",
+    "addr:street": "Chestnut Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "methodist",
+    "ele": "155",
+    "gnis:feature_id": "593273",
+    "name": "Washington Grove Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 181255043,
+  "center": {
+    "lat": 39.1952976,
+    "lon": -77.1841031
+  },
+  "tags": {
+    "addr:city": "Gaithersburg",
+    "addr:housenumber": "8921",
+    "addr:street": "Warfield Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "check_date": "2025-10-07",
+    "denomination": "wesleyan",
+    "ele": "145",
+    "gnis:feature_id": "593274",
+    "name": "Gaithersburg Church of the Nazarene",
+    "polling_station": "yes",
+    "religion": "christian",
+    "website": "https://www.gaithersburgnazarene.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 181255044,
+  "center": {
+    "lat": 39.1939764,
+    "lon": -77.1858935
+  },
+  "tags": {
+    "addr:city": "Gaithersburg",
+    "addr:housenumber": "9000",
+    "addr:street": "Warfield Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "check_date": "2025-10-07",
+    "denomination": "catholic",
+    "ele": "148",
+    "email": "info@sjncatholic.org",
+    "gnis:feature_id": "593276",
+    "name": "Saint John Neumann Catholic Church",
+    "phone": "+1 301 977 5492",
+    "religion": "christian",
+    "website": "https://www.sjncatholic.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 195158278,
+  "center": {
+    "lat": 39.1486736,
+    "lon": -77.1454390
+  },
+  "tags": {
+    "addr:housenumber": "7271",
+    "addr:street": "Muncaster Mill Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "baptist",
+    "name": "Central Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 200081880,
+  "center": {
+    "lat": 39.1442745,
+    "lon": -77.4200540
+  },
+  "tags": {
+    "addr:city": "Poolesville",
+    "addr:housenumber": "17550",
+    "addr:postcode": "20837",
+    "addr:state": "MD",
+    "addr:street": "West Willard Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "building:levels": "2",
+    "denomination": "baptist",
+    "ele": "122",
+    "gnis:feature_id": "593105",
+    "name": "Poolesville Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 200081882,
+  "center": {
+    "lat": 39.1480925,
+    "lon": -77.4151947
+  },
+  "tags": {
+    "addr:city": "Poolesville",
+    "addr:housenumber": "17829",
+    "addr:postcode": "20837",
+    "addr:state": "MD",
+    "addr:street": "Elgin Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "methodist",
+    "ele": "125",
+    "gnis:feature_id": "593104",
+    "name": "Poolesville United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 203427690,
+  "center": {
+    "lat": 39.0841812,
+    "lon": -77.1710906
+  },
+  "tags": {
+    "addr:city": "Rockville",
+    "addr:housenumber": "55",
+    "addr:postcode": "20850-3827",
+    "addr:state": "MD",
+    "addr:street": "Adclare Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "contact:fax": "+1 301 340 1121",
+    "contact:phone": "+1 301 279 2400",
+    "contact:website": "http://firstbaptistrockville.org/",
+    "denomination": "baptist",
+    "ele": "128",
+    "gnis:feature_id": "2458077",
+    "name": "First Baptist Church of Rockville",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 203427693,
+  "center": {
+    "lat": 39.0501536,
+    "lon": -77.1630907
+  },
+  "tags": {
+    "addr:city": "Potomac",
+    "addr:housenumber": "11815",
+    "addr:postcode": "20854",
+    "addr:street": "Seven Locks Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "contact:email": "office@stjamespotomac.org",
+    "contact:facebook": "https://www.facebook.com/StJamesPotomac",
+    "contact:fax": "+1 301 762 4076",
+    "contact:phone": "+1 301 762 8040",
+    "contact:website": "http://www.stjamespotomac.org/",
+    "contact:youtube": "https://www.youtube.com/profile?user=StJamesChPotomacMD",
+    "denomination": "anglican",
+    "gnis:feature_id": "593345",
+    "name": "Saint James' Episcopal Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 203427694,
+  "center": {
+    "lat": 39.0616291,
+    "lon": -77.1758426
+  },
+  "tags": {
+    "addr:city": "Rockville",
+    "addr:housenumber": "1513",
+    "addr:postcode": "20854",
+    "addr:state": "MD",
+    "addr:street": "Dunster Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "contact:fax": "+1 301 762 0719",
+    "contact:phone": "+1 301 762 2143",
+    "contact:website": "http://www.straphaels.org/",
+    "denomination": "catholic",
+    "gnis:feature_id": "593346",
+    "name": "Saint Raphael Catholic Church",
+    "religion": "christian",
+    "short_name": "Saint Raphael"
+  }
+},
+{
+  "type": "way",
+  "id": 203427695,
+  "center": {
+    "lat": 39.0519221,
+    "lon": -77.1635637
+  },
+  "tags": {
+    "addr:city": "Potomac",
+    "addr:housenumber": "11845",
+    "addr:postcode": "20854",
+    "addr:street": "Seven Locks Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "contact:phone": "+1 301 279 9388",
+    "contact:website": "http://www.sevenlocksbaptist.org/",
+    "denomination": "baptist",
+    "gnis:feature_id": "593340",
+    "name": "Seven Locks Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 215316579,
+  "center": {
+    "lat": 39.2207606,
+    "lon": -77.3807651
+  },
+  "tags": {
+    "addr:city": "Barnesville",
+    "addr:housenumber": "18230",
+    "addr:postcode": "20838",
+    "addr:state": "MD",
+    "addr:street": "Barnesville Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "roman_catholic",
+    "ele": "167",
+    "gnis:feature_id": "593106",
+    "name": "St Mary's Catholic Church & Shrine of Our Lady of Fatima",
+    "opening_hours": "Mo-Fr 09:30-15:00",
+    "phone": "+1 301 972 8660",
+    "religion": "christian",
+    "service_times": "Su 08:00, 09:30, 11:00; Sa 17:00",
+    "website": "https://www.stmaryonline.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 215316738,
+  "center": {
+    "lat": 39.2211538,
+    "lon": -77.3745520
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "baptist",
+    "ele": "171",
+    "gnis:feature_id": "593024",
+    "name": "Barnesville Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 216191387,
+  "center": {
+    "lat": 39.0707420,
+    "lon": -77.0884348
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "methodist",
+    "ele": "89",
+    "gnis:feature_id": "2457715",
+    "name": "Millian Memorial United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 220077214,
+  "center": {
+    "lat": 39.0211539,
+    "lon": -77.0778172
+  },
+  "tags": {
+    "addr:city": "Kensington",
+    "addr:housenumber": "10100",
+    "addr:postcode": "20895",
+    "addr:state": "MD",
+    "addr:street": "Connecticut Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "baptist",
+    "name": "Kensington Baptist Church",
+    "phone": "+1 301 942 4400",
+    "religion": "christian",
+    "service_times": "Su 11:00",
+    "website": "https://www.kensingtonbaptistchurchmd.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 220685304,
+  "center": {
+    "lat": 39.0019173,
+    "lon": -77.0758154
+  },
+  "tags": {
+    "addr:city": "Chevy Chase",
+    "addr:housenumber": "8814",
+    "addr:postcode": "20815",
+    "addr:street": "Kensington Parkway",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "presbyterian",
+    "name": "North Chevy Chase Christian Church",
+    "religion": "christian",
+    "website": "https://www.nc4disciples.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 221548900,
+  "center": {
+    "lat": 39.0296556,
+    "lon": -77.0470143
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "10613",
+    "addr:postcode": "20902",
+    "addr:state": "MD",
+    "addr:street": "Georgia Avenue",
+    "air_conditioning": "yes",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "presbyterian",
+    "ele": "108",
+    "email": "info@atonementlife.org",
+    "gnis:feature_id": "593150",
+    "name": "Church of the Atonement",
+    "phone": "+1 301 649-4131",
+    "religion": "christian",
+    "service_times": "Su 09:30",
+    "website": "http://www.atonementlife.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 221548901,
+  "center": {
+    "lat": 39.0304493,
+    "lon": -77.0483282
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "check_date": "2024-04-07",
+    "denomination": "methodist",
+    "name": "Hughes United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 221548907,
+  "center": {
+    "lat": 39.0673820,
+    "lon": -77.0592899
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "12901",
+    "addr:postcode": "20906",
+    "addr:state": "MD",
+    "addr:street": "Georgia Avenue",
+    "alt_name": "Glenmont Church",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "contact:facebook": "https://www.facebook.com/endoftheredlineumc",
+    "contact:foursquare": "https://www.foursquare.com/v/4e3eaa50fa76455375c7c723",
+    "contact:linkedin": "https://www.linkedin.com/company/glenmont-united-methodist-chr/",
+    "contact:yelp": "https://www.yelp.com/biz/glenmont-united-methodist-church-silver-spring",
+    "denomination": "united_methodist",
+    "ele": "127",
+    "email": "glenmontumc@verizon.net",
+    "gnis:feature_id": "584627",
+    "name": "Glenmont United Methodist Church",
+    "phone": "+1-301-946-5577",
+    "religion": "christian",
+    "service_times": "Su 10:00-11:00",
+    "start_date": "1957-06-02",
+    "website": "https://www.glenmontumc.org/",
+    "wikidata": "Q61905550"
+  }
+},
+{
+  "type": "way",
+  "id": 222400295,
+  "center": {
+    "lat": 39.0220646,
+    "lon": -77.1222498
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "presbyterian",
+    "name": "Saint Lukes Episcopal Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 222400298,
+  "center": {
+    "lat": 39.0211202,
+    "lon": -77.1232221
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "methodist",
+    "name": "North Bethesda United Methodist",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 224212481,
+  "center": {
+    "lat": 39.0700542,
+    "lon": -77.1687777
+  },
+  "tags": {
+    "addr:city": "Potomac",
+    "addr:housenumber": "12801",
+    "addr:postcode": "20854",
+    "addr:street": "Falls Road",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "lutheran",
+    "name": "Lutheran Church of the Cross",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 234371555,
+  "center": {
+    "lat": 38.9777038,
+    "lon": -76.9911022
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "catholic",
+    "ele": "47",
+    "gnis:feature_id": "1714502",
+    "name": "Our Lady of Sorrows Catholic Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 251868177,
+  "center": {
+    "lat": 38.9743769,
+    "lon": -77.0129653
+  },
+  "tags": {
+    "addr:city": "Takoma Park",
+    "addr:housenumber": "6951",
+    "addr:postcode": "20912",
+    "addr:state": "MD",
+    "addr:street": "Carroll Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "check_date": "2024-04-14",
+    "contact:email": "office@thetpchurch.org",
+    "contact:facebook": "https://www.facebook.com/thetpchurch",
+    "contact:instagram": "http://www.instagram.com/thetpchurch",
+    "contact:phone": "+1 202 829 4800",
+    "contact:twitter": "https://twitter.com/thetpchurch",
+    "contact:website": "https://thetpchurch.org/",
+    "contact:youtube": "https://www.youtube.com/user/TakomaParkSDA",
+    "ele": "85",
+    "gnis:feature_id": "2458253",
+    "name": "Takoma Park Seventh Day Adventist Church",
+    "religion": "christian",
+    "roof:shape": "gabled",
+    "wikidata": "Q114907477"
+  }
+},
+{
+  "type": "way",
+  "id": 257843546,
+  "center": {
+    "lat": 39.0132574,
+    "lon": -77.1164695
+  },
+  "tags": {
+    "addr:city": "Bethesda",
+    "addr:housenumber": "9601",
+    "addr:postcode": "20814",
+    "addr:state": "MD",
+    "addr:street": "Old Georgetown Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "catholic",
+    "ele": "103",
+    "gnis:feature_id": "593132",
+    "name": "Saint Jane Frances de Chantal",
+    "phone": "+13015301550",
+    "religion": "christian",
+    "service_times": "Sa 17:00,18:30; Su 08:00,10:00,12:00,17:00",
+    "website": "https://stjanedechantal.org/",
+    "wheelchair": "yes",
+    "wikidata": "Q65099567"
+  }
+},
+{
+  "type": "way",
+  "id": 274903357,
+  "center": {
+    "lat": 39.1458105,
+    "lon": -77.2899954
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "baptist",
+    "ele": "127",
+    "gnis:feature_id": "593023",
+    "name": "Germantown Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 362165982,
+  "center": {
+    "lat": 38.9688029,
+    "lon": -77.1109142
+  },
+  "tags": {
+    "addr:city": "Bethesda",
+    "addr:housenumber": "5500",
+    "addr:postcode": "20816",
+    "addr:state": "MD",
+    "addr:street": "River Road",
+    "air_conditioning": "yes",
+    "amenity": "place_of_worship",
+    "baby_feeding": "room",
+    "building": "church",
+    "building:levels": "2.5",
+    "building:material": "brick",
+    "check_date": "2023-12-17",
+    "denomination": "presbyterian",
+    "email": "info@4thpres.org",
+    "name": "Fourth Presbyterian Church",
+    "phone": "+1-301-320-3600",
+    "religion": "christian",
+    "roof:colour": "grey",
+    "roof:height": "3",
+    "roof:shape": "quadruple_saltbox",
+    "service_times": "Su 8:00-9:15,9:30-10:45,11:00-12:15,18:00-19:15",
+    "start_date": "1957-03-17",
+    "website": "https://4thpres.org/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 362186668,
+  "center": {
+    "lat": 38.9617463,
+    "lon": -77.1122338
+  },
+  "tags": {
+    "addr:city": "Bethesda",
+    "addr:housenumber": "5807",
+    "addr:postcode": "20816",
+    "addr:state": "MD",
+    "addr:street": "Massachusetts Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "roman_catholic",
+    "name": "Church of the Little Flower",
+    "religion": "christian",
+    "website": "https://www.lfparish.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 362197083,
+  "center": {
+    "lat": 38.9731656,
+    "lon": -77.1203422
+  },
+  "tags": {
+    "addr:city": "Bethesda",
+    "addr:housenumber": "5910",
+    "addr:postcode": "20817",
+    "addr:state": "MD",
+    "addr:street": "Goldsboro Road",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "methodist",
+    "name": "Concord-Saint Andrews United Methodist Church",
+    "religion": "christian",
+    "website": "https://www.csachurch.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 362266099,
+  "center": {
+    "lat": 38.9582497,
+    "lon": -77.1107087
+  },
+  "tags": {
+    "addr:city": "Bethesda",
+    "addr:housenumber": "5500",
+    "addr:postcode": "20816",
+    "addr:state": "MD",
+    "addr:street": "Massachusetts Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "lutheran",
+    "name": "Pilgrim Lutheran Church",
+    "religion": "christian",
+    "website": "http://pilgrimbethesda.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 362266104,
+  "center": {
+    "lat": 38.9576299,
+    "lon": -77.1094564
+  },
+  "tags": {
+    "addr:city": "Bethesda",
+    "addr:housenumber": "5450",
+    "addr:postcode": "20816",
+    "addr:state": "MD",
+    "addr:street": "Massachusetts Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "episcopal",
+    "name": "Saint Dunstan's Episcopal Church",
+    "religion": "christian",
+    "website": "https://www.stdunstansbethesda.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 362266120,
+  "center": {
+    "lat": 38.9640914,
+    "lon": -77.1020429
+  },
+  "tags": {
+    "addr:city": "Bethesda",
+    "addr:housenumber": "5119",
+    "addr:postcode": "20816",
+    "addr:state": "MD",
+    "addr:street": "River Road",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "baptist",
+    "name": "Macedonia Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 367180463,
+  "center": {
+    "lat": 39.0261479,
+    "lon": -77.2058358
+  },
+  "tags": {
+    "addr:city": "Potomac",
+    "addr:housenumber": "10300",
+    "addr:postcode": "20854",
+    "addr:street": "Falls Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Potomac United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 367182085,
+  "center": {
+    "lat": 39.0471577,
+    "lon": -77.1916657
+  },
+  "tags": {
+    "addr:housenumber": "11700",
+    "addr:street": "Falls Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "mormon",
+    "name": "The Church of Jesus Christ of Latter-day Saints",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 367182765,
+  "center": {
+    "lat": 39.0542483,
+    "lon": -77.1625273
+  },
+  "tags": {
+    "addr:city": "Potomac",
+    "addr:housenumber": "11931",
+    "addr:postcode": "20854",
+    "addr:street": "Seven Locks Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Geneva Presbyterian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 367183097,
+  "center": {
+    "lat": 39.0343449,
+    "lon": -77.1601794
+  },
+  "tags": {
+    "addr:city": "Potomac",
+    "addr:country": "US",
+    "addr:housenumber": "10902",
+    "addr:postcode": "20854",
+    "addr:state": "MD",
+    "addr:street": "Seven Locks Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "african_methodist_episcopal_zion",
+    "ele": "72",
+    "gnis:feature_id": "593446",
+    "name": "Scotland African Methodist Episcopal Zion Church",
+    "phone": "+1-301-980-8793",
+    "religion": "christian",
+    "website": "https://scotlandamezion.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 367320485,
+  "center": {
+    "lat": 39.0117819,
+    "lon": -77.1586300
+  },
+  "tags": {
+    "addr:city": "Bethesda",
+    "addr:housenumber": "7730",
+    "addr:postcode": "20817",
+    "addr:state": "MD",
+    "addr:street": "Bradley Boulevard",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "lutheran",
+    "ele": "83",
+    "gnis:feature_id": "2458044",
+    "name": "Emmanuel Lutheran Church",
+    "religion": "christian",
+    "wikidata": "Q118955234"
+  }
+},
+{
+  "type": "way",
+  "id": 367320938,
+  "center": {
+    "lat": 39.0134251,
+    "lon": -77.1568544
+  },
+  "tags": {
+    "addr:city": "Bethesda",
+    "addr:housenumber": "7701",
+    "addr:state": "MD",
+    "addr:street": "Bradley Boulevard",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "greek_orthodox",
+    "ele": "82",
+    "gnis:feature_id": "2458131",
+    "name": "Greek Orthodox Church of Saint George",
+    "phone": "+1-301-469-7990",
+    "religion": "christian",
+    "website": "https://stgeorge.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 367322210,
+  "center": {
+    "lat": 39.0024633,
+    "lon": -77.1315105
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "presbyterian",
+    "generator:method": "photovoltaic",
+    "generator:output:electricity": "yes",
+    "generator:source": "solar",
+    "generator:type": "solar_photovoltaic_panel",
+    "location": "roof",
+    "name": "Bradley Hills Presbyterian Church",
+    "power": "generator",
+    "religion": "christian",
+    "wikidata": "Q4954940",
+    "wikipedia": "en:Bradley Hills Presbyterian Church"
+  }
+},
+{
+  "type": "way",
+  "id": 368025756,
+  "center": {
+    "lat": 38.9786046,
+    "lon": -77.1432901
+  },
+  "tags": {
+    "addr:housenumber": "7009",
+    "addr:street": "Wilson Lane",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "presbyterian",
+    "name": "Washington United Korean Presbyterian Church",
+    "religion": "christian",
+    "website": "https://washingtonunited.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 368155338,
+  "center": {
+    "lat": 38.9931664,
+    "lon": -77.1084152
+  },
+  "tags": {
+    "addr:city": "Bethesda",
+    "addr:housenumber": "8300",
+    "addr:postcode": "20814",
+    "addr:street": "Old Georgetown Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "methodist",
+    "name": "Bethesda United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 368164225,
+  "center": {
+    "lat": 39.0209323,
+    "lon": -77.2122385
+  },
+  "tags": {
+    "addr:housenumber": "10301",
+    "addr:street": "River Road",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "presbyterian",
+    "ele": "103",
+    "gnis:feature_id": "593344",
+    "name": "Potomac United Presbyterian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 368165235,
+  "center": {
+    "lat": 39.0241912,
+    "lon": -77.2193118
+  },
+  "tags": {
+    "addr:city": "Potomac",
+    "addr:housenumber": "10620",
+    "addr:postcode": "20854",
+    "addr:state": "MD",
+    "addr:street": "River Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "antiochian_orthodox",
+    "name": "Saints Peter & Paul Antiochian Orthodox Christian Church",
+    "religion": "christian",
+    "service_times": "Su 09:20,10:30",
+    "website": "https://www.peterpaulpotomac.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 369709843,
+  "center": {
+    "lat": 39.0209144,
+    "lon": -77.1358029
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "ele": "106",
+    "gnis:feature_id": "593278",
+    "name": "Bethesda United Church of Christ",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 388115530,
+  "center": {
+    "lat": 39.0251076,
+    "lon": -77.1896523
+  },
+  "tags": {
+    "addr:city": "Potomac",
+    "addr:housenumber": "10201",
+    "addr:postcode": "20854",
+    "addr:street": "Democracy Boulevard",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "orthodox",
+    "name": "Holy Resurrection Orthodox Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 437190401,
+  "center": {
+    "lat": 38.9909066,
+    "lon": -76.9940298
+  },
+  "tags": {
+    "addr:city": "Takoma Park",
+    "addr:housenumber": "8116",
+    "addr:postcode": "20912",
+    "addr:state": "MD",
+    "addr:street": "Carroll Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "mormon",
+    "name": "The Church of Jesus Christ of Latter-day Saints",
+    "operator": "The Church of Jesus Christ of Latter-day Saints",
+    "operator:type": "religious",
+    "operator:wikidata": "Q42504",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 468743064,
+  "center": {
+    "lat": 39.0654587,
+    "lon": -77.0969334
+  },
+  "tags": {
+    "addr:city": "Rockville",
+    "addr:housenumber": "12701",
+    "addr:postcode": "20853",
+    "addr:state": "MD",
+    "addr:street": "Veirs Mill Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "catholic",
+    "ele": "94",
+    "gnis:feature_id": "593133",
+    "name": "Shrine of Saint Jude Catholic Church",
+    "phone": "+1 301 949 2336",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 469673546,
+  "center": {
+    "lat": 39.0095115,
+    "lon": -76.9816650
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:country": "US",
+    "addr:housenumber": "1600",
+    "addr:postcode": "20903",
+    "addr:state": "MD",
+    "addr:street": "Saint Camillus Drive",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "catholic",
+    "ele": "74",
+    "gnis:feature_id": "1713218",
+    "name": "Saint Camillus Catholic Church",
+    "phone": "+1 301 434 8400",
+    "religion": "christian",
+    "website": "https://www.stcamilluschurch.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 494035158,
+  "center": {
+    "lat": 39.0230291,
+    "lon": -77.1246683
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 509710260,
+  "center": {
+    "lat": 39.0104600,
+    "lon": -77.0059065
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "100",
+    "addr:postcode": "20901",
+    "addr:state": "MD",
+    "addr:street": "East Franklin Avenue",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Silver Spring Church of Christ",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 512115767,
+  "center": {
+    "lat": 39.0001904,
+    "lon": -76.9940444
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "8818",
+    "addr:postcode": "20901",
+    "addr:state": "MD",
+    "addr:street": "Piney Branch Road",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "baptist",
+    "name": "Clifton Park Baptist Church",
+    "phone": "+1-301-434-2456",
+    "religion": "christian",
+    "website": "https://www.cliftonparkbaptistchurch.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 518584506,
+  "center": {
+    "lat": 39.1148764,
+    "lon": -76.9790659
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "baptist",
+    "ele": "154",
+    "gnis:feature_id": "1713215",
+    "name": "Round Oak Missionary Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 545133616,
+  "center": {
+    "lat": 38.9758097,
+    "lon": -77.1595431
+  },
+  "tags": {
+    "addr:housenumber": "6523",
+    "addr:street": "78th Street",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Saint George Coptic Orthodox Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 545134637,
+  "center": {
+    "lat": 38.9697393,
+    "lon": -77.1399103
+  },
+  "tags": {
+    "addr:city": "Bethesda",
+    "addr:housenumber": "6201",
+    "addr:postcode": "20816",
+    "addr:state": "MD",
+    "addr:street": "Dunrobbin Drive",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "The Episcopal Church of the Redeemer",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 589554431,
+  "center": {
+    "lat": 38.9862062,
+    "lon": -77.1449031
+  },
+  "tags": {
+    "addr:city": "Bethesda",
+    "addr:housenumber": "7124",
+    "addr:postcode": "20817-4770",
+    "addr:state": "MD",
+    "addr:street": "River Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "orthodox",
+    "email": "admin@stmarkoca.org",
+    "name": "Saint Mark Orthodox Church",
+    "phone": "+1-301-229-6300",
+    "religion": "christian",
+    "service_times": "Su 09:30",
+    "website": "https://stmarkoca.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 618357525,
+  "center": {
+    "lat": 38.9740249,
+    "lon": -77.1587397
+  },
+  "tags": {
+    "addr:housenumber": "7703",
+    "addr:street": "MacArthur Boulevard",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "name": "Cabin John United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 619747781,
+  "center": {
+    "lat": 39.0947656,
+    "lon": -77.0455293
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "14500",
+    "addr:postcode": "20906",
+    "addr:state": "MD",
+    "addr:street": "Layhill Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "united_methodist",
+    "ele": "132",
+    "name": "Oak Chapel Church",
+    "religion": "christian",
+    "service_times": "Su 10:00",
+    "website": "https://oakchapel.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 643499505,
+  "center": {
+    "lat": 39.0074274,
+    "lon": -77.0401577
+  },
+  "tags": {
+    "addr:housenumber": "9300",
+    "addr:street": "Georgia Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "la_luz_del_mundo",
+    "denomination:wikidata": "Q3497836",
+    "name": "Iglesia La Luz Del Mundo",
+    "name:es": "Iglesia La Luz Del Mundo",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 654381729,
+  "center": {
+    "lat": 39.0011174,
+    "lon": -77.0344874
+  },
+  "tags": {
+    "addr:housenumber": "8900",
+    "addr:street": "Georgia Avenue",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "check_date": "2023-08-30",
+    "denomination": "methodist",
+    "ele": "106",
+    "name": "Woodside United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 689796219,
+  "center": {
+    "lat": 39.0091585,
+    "lon": -77.1733363
+  },
+  "tags": {
+    "addr:city": "Potomac",
+    "addr:housenumber": "9200",
+    "addr:postcode": "20854",
+    "addr:state": "MD",
+    "addr:street": "Kentsdale Drive",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "catholic",
+    "name": "Our Lady of Mercy Catholic Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 699793688,
+  "center": {
+    "lat": 39.0344935,
+    "lon": -76.9971349
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "10915",
+    "addr:postcode": "20901",
+    "addr:street": "Lockwood Drive",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "seventh_day_adventist",
+    "ele": "104",
+    "gnis:feature_id": "2457931",
+    "name": "Burnt Mills Seventh Day Adventist Church",
+    "religion": "christian",
+    "website": "https://www.burntmillssda.org"
+  }
+},
+{
+  "type": "way",
+  "id": 703892784,
+  "center": {
+    "lat": 39.0654518,
+    "lon": -77.0240477
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "800",
+    "addr:postcode": "20904",
+    "addr:state": "MD",
+    "addr:street": "Randolph Road",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "baptist",
+    "name": "Hahnuri Korean Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 723254814,
+  "center": {
+    "lat": 39.2993697,
+    "lon": -77.2002423
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "lutheran",
+    "ele": "241",
+    "gnis:feature_id": "1712508",
+    "name": "Redeemer Lutheran Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 723616878,
+  "center": {
+    "lat": 39.3185630,
+    "lon": -77.1984308
+  },
+  "tags": {
+    "addr:city": "Damascus",
+    "addr:housenumber": "28201",
+    "addr:postcode": "20872",
+    "addr:state": "MD",
+    "addr:street": "Kemptown Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "malankara_orthodox_syrian",
+    "ele": "226",
+    "gnis:feature_id": "1712501",
+    "name": "Saint Thomas Orthodox Syrian Church",
+    "old_name": "Montgomery United Methodist Church",
+    "phone": "+1 240 801 0321",
+    "religion": "christian",
+    "website": "https://www.stthomaschurchdc.com/"
+  }
+},
+{
+  "type": "way",
+  "id": 730450859,
+  "center": {
+    "lat": 39.1226458,
+    "lon": -77.1516035
+  },
+  "tags": {
+    "addr:city": "Derwood",
+    "addr:housenumber": "7410",
+    "addr:postcode": "20855",
+    "addr:state": "MD",
+    "addr:street": "Needwood Road",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "presbyterian",
+    "name": "Taiwanese Presbyterian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 751398187,
+  "center": {
+    "lat": 39.0537380,
+    "lon": -77.1396955
+  },
+  "tags": {
+    "addr:city": "Rockville",
+    "addr:housenumber": "6810",
+    "addr:postcode": "20852",
+    "addr:state": "MD",
+    "addr:street": "Montrose Road",
+    "air_conditioning": "yes",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "methodist",
+    "ele": "108",
+    "gnis:feature_id": "593333",
+    "internet_access": "wlan",
+    "internet_access:ssid": "Faith Guest",
+    "name": "Faith United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 751401363,
+  "center": {
+    "lat": 39.0334684,
+    "lon": -77.0980986
+  },
+  "tags": {
+    "addr:city": "Garrett Park",
+    "addr:housenumber": "4900",
+    "addr:postcode": "20896",
+    "addr:state": "MD",
+    "addr:street": "Strathmore Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "catholic",
+    "ele": "86",
+    "gnis:feature_id": "593127",
+    "name": "Holy Cross Catholic Church",
+    "phone": "+1 301 942 1020",
+    "religion": "christian",
+    "service_times": "Mo-Sa 08:30; Sa 17:00 \"Vigil\"; Su 9:30,12:00",
+    "start_date": "1961",
+    "website": "https://hcrosschurch.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 751951671,
+  "center": {
+    "lat": 38.9548665,
+    "lon": -77.0996845
+  },
+  "tags": {
+    "addr:city": "Bethesda",
+    "addr:housenumber": "4906",
+    "addr:postcode": "20816",
+    "addr:street": "Flint Drive",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "armenian_apostolic",
+    "name": "Soorp Khatch Armenian Apostolic Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 753021922,
+  "center": {
+    "lat": 39.0387605,
+    "lon": -77.1235310
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "lutheran",
+    "ele": "117",
+    "gnis:feature_id": "593135",
+    "name": "Trinity Lutheran Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 781144265,
+  "center": {
+    "lat": 39.2838656,
+    "lon": -77.1831731
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "baptist",
+    "ele": "243",
+    "gnis:feature_id": "1712482",
+    "name": "First Baptist Church of Damascus",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 785652586,
+  "center": {
+    "lat": 39.0005260,
+    "lon": -77.0261022
+  },
+  "tags": {
+    "addr:housenumber": "8900",
+    "addr:street": "Colesville Road",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Seventh Day Adventist Church Silver Spring",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 815882143,
+  "center": {
+    "lat": 39.0366774,
+    "lon": -77.0629302
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 845851951,
+  "center": {
+    "lat": 38.9970345,
+    "lon": -77.0229836
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "805",
+    "addr:postcode": "20910",
+    "addr:state": "MD",
+    "addr:street": "Wayne Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "catholic",
+    "ele": "101",
+    "fax": "+1-301-589-3470",
+    "gnis:feature_id": "2458203",
+    "name": "Saint Michael the Archangel Catholic Church",
+    "phone": "+1 301-589-1155",
+    "religion": "christian",
+    "service_times": "Su 08:00-09:30,09:30-11:00,11:00-12:30,13:00-14:30,19:00-20:30; Mo-Fr 07:45-08:30,12:05-12:50; Sa 07:45-08:45",
+    "website": "https://www.stmichaelsilverspring.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 881118909,
+  "center": {
+    "lat": 39.0471362,
+    "lon": -77.0307356
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "11600",
+    "addr:postcode": "20902",
+    "addr:state": "MD",
+    "addr:street": "Kemp Mill Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "roman_catholic",
+    "ele": "130",
+    "gnis:feature_id": "586978",
+    "name": "Saint Andrew Apostle Catholic Church",
+    "phone": "+1-301-649-3700",
+    "religion": "christian",
+    "website": "https://standrewapostle.org/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 936923720,
+  "center": {
+    "lat": 39.1515196,
+    "lon": -77.4160012
+  },
+  "tags": {
+    "addr:city": "Poolesville",
+    "addr:housenumber": "18024",
+    "addr:postcode": "20837",
+    "addr:street": "Elgin Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "methodist",
+    "ele": "124",
+    "gnis:feature_id": "593384",
+    "name": "Elijah United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 936945536,
+  "center": {
+    "lat": 39.1100443,
+    "lon": -77.2995061
+  },
+  "tags": {
+    "addr:city": "Germantown",
+    "addr:housenumber": "15575",
+    "addr:postcode": "20874",
+    "addr:state": "MD",
+    "addr:street": "Germantown Road",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "episcopal",
+    "name": "Saint Nicholas Episcopal Church",
+    "phone": "+12406312800",
+    "religion": "christian",
+    "service_times": "10:00",
+    "website": "https://www.saintnicks.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 953614045,
+  "center": {
+    "lat": 39.0656735,
+    "lon": -77.0574028
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "ele": "123",
+    "gnis:feature_id": "593144",
+    "name": "First Assembly of God Church",
+    "religion": "christian",
+    "source": "microsoft/BuildingFootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 953615099,
+  "center": {
+    "lat": 39.0783845,
+    "lon": -77.0702236
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "ele": "96",
+    "gnis:feature_id": "2457905",
+    "name": "Aspen Hill Christian Church",
+    "religion": "christian",
+    "source": "microsoft/BuildingFootprints",
+    "wikidata": "Q66475113"
+  }
+},
+{
+  "type": "way",
+  "id": 971498336,
+  "center": {
+    "lat": 39.0485723,
+    "lon": -77.0684458
+  },
+  "tags": {
+    "addr:city": "Wheaton",
+    "addr:housenumber": "11801",
+    "addr:postcode": "20902",
+    "addr:state": "MD",
+    "addr:street": "Claridge Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "catholic",
+    "ele": "106",
+    "gnis:feature_id": "593163",
+    "name": "Saint Catherine Laboure Church",
+    "phone": "+1 301 946 3636",
+    "religion": "christian",
+    "service_times": "Mo-Fr 07:00,08:30; Sa 08:30,17:15; Su 07:00,10:30",
+    "service_times:es": "Mo-Fr 19:00; Sa 19:00; Su 08:30,10:30",
+    "website": "https://sclwheaton.org",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 979909852,
+  "center": {
+    "lat": 39.1148745,
+    "lon": -77.0928200
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "메릴랜드 익투스 교회 Ichthus Mission Church",
+    "religion": "christian",
+    "source": "microsoft/BuildingFootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 985542622,
+  "center": {
+    "lat": 39.0434428,
+    "lon": -77.0780091
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "3701",
+    "addr:postcode": "20902",
+    "addr:state": "MD",
+    "addr:street": "Spruell Drive",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "nondenominational",
+    "name": "Geater Grace Community Church",
+    "phone": "+1 240 833 3349",
+    "religion": "christian",
+    "service_times": "Su 09:15,11:00; Th 19:00",
+    "website": "https://www.ggcc.info/"
+  }
+},
+{
+  "type": "way",
+  "id": 1011751738,
+  "center": {
+    "lat": 39.0414385,
+    "lon": -77.0693855
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "jehovahs_witness",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1024658148,
+  "center": {
+    "lat": 39.0971651,
+    "lon": -76.9434338
+  },
+  "tags": {
+    "addr:city": "Burtonsville",
+    "addr:country": "US",
+    "addr:housenumber": "3315",
+    "addr:postcode": "20866",
+    "addr:state": "MD",
+    "addr:street": "Greencastle Road",
+    "amenity": "place_of_worship",
+    "denomination": "roman_catholic",
+    "ele": "143",
+    "fax": "+1 301 236 5204",
+    "gnis:feature_id": "1713211",
+    "name": "Resurrection Catholic Church",
+    "phone": "+1 301 236 5200",
+    "religion": "christian",
+    "website": "https://www.resurrectionadw.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 1031007784,
+  "center": {
+    "lat": 39.0447576,
+    "lon": -76.9930751
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "jehovahs_witness",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1040636248,
+  "center": {
+    "lat": 39.0764834,
+    "lon": -76.9950692
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "13407",
+    "addr:state": "MD",
+    "addr:street": "Roxbury Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "antiochian_orthodox",
+    "name": "Saint Gregory Orthodox Church",
+    "religion": "christian",
+    "service_times": "Su 09:00,09:30",
+    "website": "https://www.stgregoryoc.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 1047646038,
+  "center": {
+    "lat": 38.9994226,
+    "lon": -76.9922603
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "ele": "67",
+    "gnis:feature_id": "2458172",
+    "name": "International Foursquare Gospel Church of Silver Spring",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1062158675,
+  "center": {
+    "lat": 39.0587604,
+    "lon": -77.0647153
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "ele": "107",
+    "gnis:feature_id": "2458082",
+    "name": "First Faith Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1064977109,
+  "center": {
+    "lat": 39.2832563,
+    "lon": -77.1745696
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "seventh_day_adventist",
+    "name": "Damascus Grace Fellowship Seventh-Day Adventist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1072829900,
+  "center": {
+    "lat": 39.0809802,
+    "lon": -77.0885806
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1072829902,
+  "center": {
+    "lat": 39.0758754,
+    "lon": -77.0939725
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "lutheran",
+    "ele": "113",
+    "gnis:feature_id": "2458191",
+    "name": "Saint Johns Lutheran Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1072829917,
+  "center": {
+    "lat": 39.0967134,
+    "lon": -77.1065320
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "ele": "120",
+    "gnis:feature_id": "593139",
+    "name": "Church of Christ at Manor Woods",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1075193845,
+  "center": {
+    "lat": 39.1776965,
+    "lon": -77.3200546
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "ele": "106",
+    "gnis:feature_id": "587083",
+    "name": "Saint Marks Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1097850127,
+  "center": {
+    "lat": 39.1639801,
+    "lon": -77.4742184
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "ele": "123",
+    "gnis:feature_id": "588054",
+    "name": "Warren Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1102680797,
+  "center": {
+    "lat": 38.9854524,
+    "lon": -77.0916664
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "ele": "107",
+    "gnis:feature_id": "593042",
+    "name": "Our Lady of Lourdes Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1107749796,
+  "center": {
+    "lat": 38.9880192,
+    "lon": -77.1742474
+  },
+  "tags": {
+    "addr:city": "Bethesda",
+    "addr:housenumber": "7801",
+    "addr:postcode": "20817",
+    "addr:street": "Persimmon Tree Lane",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "ele": "79",
+    "gnis:feature_id": "584933",
+    "name": "Hermon Presbyterian Church",
+    "religion": "christian",
+    "service_times": "11 am Sunday",
+    "website": "https://thehermonchurch.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 1150578090,
+  "center": {
+    "lat": 39.0768845,
+    "lon": -77.1621293
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "jehovahs_witness",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1150587596,
+  "center": {
+    "lat": 39.1308053,
+    "lon": -77.2450441
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "jehovahs_witness",
+    "ele": "130",
+    "gnis:feature_id": "2457682",
+    "name": "Kingdom Hall of Jehovahs Witnesses Germantown Congregation",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1150676180,
+  "center": {
+    "lat": 39.1330260,
+    "lon": -76.9925198
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "jehovahs_witness",
+    "ele": "166",
+    "gnis:feature_id": "1712775",
+    "name": "Kingdom Hall of Jehovahs Witnesses",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1152268808,
+  "center": {
+    "lat": 39.0053055,
+    "lon": -77.1860147
+  },
+  "tags": {
+    "addr:housenumber": "9111",
+    "addr:street": "River Road",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "romanian_orthodox",
+    "name": "Saint Andrew Romanian Orthodox Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1153019096,
+  "center": {
+    "lat": 38.9838950,
+    "lon": -77.1406219
+  },
+  "tags": {
+    "addr:housenumber": "6900",
+    "addr:street": "River Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "catholic",
+    "name": "Saint Bartholomew Catholic Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1161382370,
+  "center": {
+    "lat": 39.1030377,
+    "lon": -77.2948617
+  },
+  "tags": {
+    "addr:city": "Darnestown",
+    "addr:housenumber": "14139",
+    "addr:postcode": "20874",
+    "addr:state": "MD",
+    "addr:street": "Seneca Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "roman_catholic",
+    "email": "parishoffice@olvp.org",
+    "name": "Our Lady of the Visitation",
+    "opening_hours": "Mo-Fr 10:00-16:00",
+    "phone": "+1 301 948 5536",
+    "religion": "christian",
+    "service_times": "Su 09:00,11:00,17:00; Mo 12:00; Tu,Th 08:30,12:00; We,Fr 12:00,18:00; Sa 09:00,17:00",
+    "website": "https://www.olvp.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 1161385901,
+  "center": {
+    "lat": 39.1032236,
+    "lon": -77.2855447
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "presbyterian",
+    "ele": "125",
+    "gnis:feature_id": "593211",
+    "name": "Darnestown United Presbyterian Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1163436431,
+  "center": {
+    "lat": 39.1426345,
+    "lon": -77.2981114
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "methodist",
+    "ele": "124",
+    "gnis:feature_id": "593367",
+    "name": "Asbury United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1164200328,
+  "center": {
+    "lat": 39.0733687,
+    "lon": -77.0069672
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "methodist",
+    "ele": "141",
+    "gnis:feature_id": "1713115",
+    "name": "Colesville United Methodist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1165291510,
+  "center": {
+    "lat": 39.1053970,
+    "lon": -76.9174733
+  },
+  "tags": {
+    "addr:city": "Burtonsville",
+    "addr:housenumber": "4515",
+    "addr:postcode": "20866",
+    "addr:state": "MD",
+    "addr:street": "Sandy Spring Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "check_date": "2026-05-04",
+    "denomination": "presbyterian",
+    "ele": "138",
+    "email": "info@trinityrpc.org",
+    "gnis:feature_id": "1713122",
+    "name": "Trinity Reformed Presbyterian Church",
+    "operator": "Reformed Presbyterian Church of North America",
+    "operator:short": "RPCNA",
+    "religion": "christian",
+    "service_times": "Su 10:00, Su[1] 17:30",
+    "website": "https://trinityrpc.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 1193825254,
+  "center": {
+    "lat": 39.0808758,
+    "lon": -77.1379776
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "methodist",
+    "ele": "130",
+    "gnis:feature_id": "593334",
+    "name": "Rockville Free Methodist Church",
+    "religion": "christian",
+    "source": "microsoft/BuildingFootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 1195662963,
+  "center": {
+    "lat": 39.0827838,
+    "lon": -77.1706908
+  },
+  "tags": {
+    "addr:city": "Rockville",
+    "addr:housenumber": "301",
+    "addr:postcode": "20850",
+    "addr:state": "MD",
+    "addr:street": "Adclare Road",
+    "amenity": "place_of_worship",
+    "contact:email": "office@rockvillechristian.org",
+    "contact:facebook": "https://www.facebook.com/pages/Rockville-Christian-Church/149628935093901",
+    "contact:phone": "+1 301 762 7744",
+    "contact:website": "http://www.rockvillechristian.org/",
+    "denomination": "protestant",
+    "gnis:feature_id": "2458746",
+    "landuse": "religious",
+    "name": "Rockville Christian Church",
+    "religion": "christian",
+    "service_times": "Su 11:00"
+  }
+},
+{
+  "type": "way",
+  "id": 1276200545,
+  "center": {
+    "lat": 39.1311310,
+    "lon": -77.1832008
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "name": "Rockville Evangelical Mission Church",
+    "religion": "christian",
+    "website": "https://www.remchurch.org/"
+  }
+},
+{
+  "type": "way",
+  "id": 1288972900,
+  "center": {
+    "lat": 39.1175626,
+    "lon": -76.9687543
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "methodist",
+    "ele": "158",
+    "gnis:feature_id": "1713232",
+    "name": "Crossway Christian Church",
+    "religion": "christian",
+    "source": "microsoft/BuildingFootprints"
+  }
+},
+{
+  "type": "way",
+  "id": 1426920733,
+  "center": {
+    "lat": 39.0848220,
+    "lon": -77.1175990
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "baptist",
+    "ele": "110",
+    "gnis:feature_id": "2458285",
+    "name": "Twinbrook Baptist Church",
+    "religion": "christian"
+  }
+},
+{
+  "type": "way",
+  "id": 1450740334,
+  "center": {
+    "lat": 39.1205962,
+    "lon": -77.0219925
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "721",
+    "addr:state": "MD",
+    "addr:street": "Norwood Road",
+    "amenity": "place_of_worship",
+    "building": "yes",
+    "denomination": "orthodox",
+    "email": "admin@schgocdc.org",
+    "name": "Saints Constantine & Helen Greek Orthodox Church of Washington, D.C.",
+    "religion": "christian",
+    "website": "https://www.schgoc.org/"
+  }
+},
+{
+  "type": "relation",
+  "id": 1568565,
+  "center": {
+    "lat": 38.9671333,
+    "lon": -77.0782564
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "episcopal",
+    "name": "All Saints Church",
+    "religion": "christian",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 11700551,
+  "center": {
+    "lat": 39.0776287,
+    "lon": -77.0696268
+  },
+  "tags": {
+    "addr:housenumber": "13421",
+    "addr:street": "Georgia Avenue",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "ele": "101",
+    "name": "Global Mission Church",
+    "name:ko": "워싱턴지구촌교회",
+    "religion": "christian",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 12412861,
+  "center": {
+    "lat": 39.1472625,
+    "lon": -77.0253012
+  },
+  "tags": {
+    "amenity": "place_of_worship",
+    "building": "church",
+    "denomination": "quaker",
+    "name": "Sandy Spring Friends Meeting House",
+    "religion": "christian",
+    "start_date": "1817",
+    "type": "multipolygon"
+  }
+},
+{
+  "type": "relation",
+  "id": 12422595,
+  "center": {
+    "lat": 39.0264721,
+    "lon": -77.0744481
+  },
+  "tags": {
+    "addr:city": "Kensington",
+    "addr:housenumber": "10401",
+    "addr:postcode": "20895",
+    "addr:state": "MD",
+    "addr:street": "Armory Avenue",
+    "air_conditioning": "yes",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "building:levels": "1",
+    "denomination": "methodist",
+    "email": "stpaulsunited@stpaulsk.org",
+    "name": "Saint Paul's United Methodist Church",
+    "phone": "+1 301-933-7933",
+    "religion": "christian",
+    "roof:shape": "flat",
+    "service_times": "Sep-May Su 09:00,10:30; May-Sep Su 10:30",
+    "type": "multipolygon",
+    "website": "https://www.stpaulsk.org/"
+  }
+},
+{
+  "type": "relation",
+  "id": 14215068,
+  "center": {
+    "lat": 39.0585266,
+    "lon": -77.0854967
+  },
+  "tags": {
+    "addr:city": "Silver Spring",
+    "addr:housenumber": "12221",
+    "addr:state": "MD",
+    "addr:street": "Veirs Mill Road",
+    "amenity": "place_of_worship",
+    "building": "church",
+    "contact:facebook": "viersmillbaptistchurch",
+    "denomination": "baptist",
+    "ele": "97",
+    "email": "churchoffice@viersmillbaptist.org",
+    "gnis:feature_id": "588005",
+    "name": "Viers Mill Baptist Church",
+    "phone": "+1 301 942 3210",
+    "religion": "christian",
+    "service_times": "Su 09:45,11:00",
+    "type": "multipolygon",
+    "website": "http://viersmillbaptist.org/"
+  }
+}
+
+  ]
+}
