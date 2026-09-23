@@ -1,5 +1,5 @@
 import Anthropic from "@anthropic-ai/sdk";
-import { anthropic, MODEL } from "./ai";
+import { addUsage, anthropic, describeUsage, emptyUsage, estimateCost, MODEL_CHAT, type Usage } from "./ai";
 import { CATEGORIES, labelFor } from "./categories";
 import { createNeed, offersInBox, resourcesForChurches, searchResources } from "./db";
 import { boundingBox, geocodeAddress, haversineMiles, lookupZip, normalizeHost } from "./geo";
@@ -25,7 +25,7 @@ Your job: understand what the person needs, find real help close to them, and sa
 How to work:
 1. Read the need. If it's clear, don't interrogate — at most one short clarifying question, and only if it changes where you'd send them.
 2. Find out where they are. A zip code is best; a neighborhood or town in the county ("Wheaton", "Germantown", "near Takoma Park") is fine — call find_place with whatever they give. If they give nothing, ask once. Never search without a location.
-3. Search the database first: call search_resources with the best category and a few keywords, and find_nearby_churches for what's around them. Then, if the database is thin for their need and there are unread church websites nearby, call scan_churches on up to 6 of the closest — reading is quick and the results are cached for everyone after you. Call search_offers too; churches post there directly.
+3. Search the database first: call search_resources with the best category and a few keywords, and find_nearby_churches for what's around them. Then, if the database is thin for their need and there are unread church websites nearby, call scan_churches on up to 4 of the closest — reading is quick and the results are cached for everyone after you. Call search_offers too; churches post there directly.
 4. Answer with specific places: name, what they offer, when, how to get it, the phone or contact IF a tool result gave one, and distance. Lead with the best 2–4 fits, nearest first when quality is equal. Say when an item is "inferred" ("looks like they may have… worth a call"). Ministries (kind: ministry) such as Manna Food Center or the HELP organizations often cover the whole county — include them when they fit, and say they aren't a congregation.
 5. If nothing fits exactly, say so and give the nearest adjacent help — a benevolence fund for a rent question, a church office to call when nothing is listed — plus nearby churches with no website, since small pantries often never make it online. Montgomery County's own line is 311 (240-777-0311); Maryland's is 211. Mention them when a need is bigger than a church can carry (eviction, domestic violence, medical crisis). If someone is in danger, 911.
 6. Always suggest calling ahead; hours change and a website is the last thing a church updates.
@@ -67,10 +67,10 @@ export const TOOLS: Anthropic.Tool[] = [
   {
     name: "scan_churches",
     description:
-      "Read the public websites of up to 6 churches right now and extract what they offer the community. Pass the exact 'website' values from find_nearby_churches. Slow (10–30s); results are cached for a month, so already-scanned churches return instantly.",
+      "Read the public websites of up to 4 churches right now and extract what they offer the community. Pass the exact 'website' values from find_nearby_churches. Slow (10–30s); results are cached for a month, so already-scanned churches return instantly.",
     input_schema: {
       type: "object",
-      properties: { websites: { type: "array", items: { type: "string" }, maxItems: 6 } },
+      properties: { websites: { type: "array", items: { type: "string" }, maxItems: 4 } },
       required: ["websites"],
     },
   },
@@ -143,7 +143,7 @@ function summarizeResource(r: ResourceRow) {
   return {
     title: r.title,
     category: labelFor(r.category),
-    description: r.description,
+    description: r.description && r.description.length > 220 ? `${r.description.slice(0, 217)}…` : r.description,
     schedule: r.schedule,
     how_to_access: r.how_to_access,
     contact: r.contact,
@@ -214,11 +214,11 @@ export async function runTool(name: string, input: Record<string, unknown>, ctx:
         place,
         radius_miles: radius,
         counts: { total: list.length, scanned: scanned.length, unread_with_website: withSites.length, no_website: noSite.length },
-        churches: list.slice(0, 40).map((c) => summarizeNearby(c, c.scanned ? counts.get(c.scanned.id) ?? 0 : undefined)),
+        churches: list.slice(0, 25).map((c) => summarizeNearby(c, c.scanned ? counts.get(c.scanned.id) ?? 0 : undefined)),
       };
     }
     case "scan_churches": {
-      const websites = (Array.isArray(input.websites) ? input.websites : []).map(String).slice(0, 6);
+      const websites = (Array.isArray(input.websites) ? input.websites : []).map(String).slice(0, 4);
       const results = await Promise.all(
         websites.map(async (w) => {
           const host = normalizeHost(w) ?? w;
@@ -253,7 +253,6 @@ export async function runTool(name: string, input: Record<string, unknown>, ctx:
               distance_miles: Number(distance.toFixed(1)),
               phone: r.church.phone,
               address: r.church.address,
-              summary: r.church.summary,
               resources: r.resources.map(summarizeResource),
             };
           } catch (e) {
@@ -327,6 +326,35 @@ export interface ChatTurnResult {
   history: Anthropic.MessageParam[];
   churches: ReturnType<typeof summarizeNearby>[];
   place: ChatContext["place"];
+  usage: Usage & { model: string; cost: number };
+}
+
+/**
+ * Mark the last block of the last message as a cache breakpoint. Tools and
+ * the system prompt are a stable prefix; the conversation grows by one
+ * assistant turn and one tool-result message per iteration, so each request
+ * re-reads the previous request's prefix from cache instead of paying for it
+ * again. Earlier breakpoints are cleared so there is never more than one in
+ * the messages (the API allows four in total).
+ */
+function withCacheBreakpoint(messages: Anthropic.MessageParam[]): Anthropic.MessageParam[] {
+  const out = messages.map((m) => {
+    if (typeof m.content === "string") return m;
+    return { ...m, content: m.content.map((b) => ("cache_control" in b ? { ...b, cache_control: undefined } : b)) };
+  }) as Anthropic.MessageParam[];
+  const last = out[out.length - 1];
+  if (!last) return out;
+  if (typeof last.content === "string") {
+    last.content = [{ type: "text", text: last.content, cache_control: { type: "ephemeral" } }];
+  } else if (last.content.length) {
+    const blocks = [...last.content];
+    const tail = blocks[blocks.length - 1];
+    if (tail.type !== "thinking" && tail.type !== "redacted_thinking") {
+      blocks[blocks.length - 1] = { ...tail, cache_control: { type: "ephemeral" } } as typeof tail;
+      last.content = blocks;
+    }
+  }
+  return out;
 }
 
 const MAX_ITERATIONS = 10;
@@ -341,15 +369,16 @@ export async function runChatTurn(
   const client = anthropic();
   const messages: Anthropic.MessageParam[] = [...history, { role: "user", content: userMessage }];
   const ctx: ChatContext = { status: handlers.status, touched: new Map(), place: previousPlace };
+  const usage = emptyUsage();
   let finalText = "";
 
   for (let i = 0; i < MAX_ITERATIONS; i++) {
     const stream = client.messages.stream({
-      model: MODEL,
+      model: MODEL_CHAT,
       max_tokens: 8000,
       system: [{ type: "text", text: SYSTEM_PROMPT, cache_control: { type: "ephemeral" } }],
       tools: TOOLS,
-      messages,
+      messages: withCacheBreakpoint(messages),
       output_config: { effort: "medium" },
     });
     let turnText = "";
@@ -358,6 +387,7 @@ export async function runChatTurn(
       handlers.delta(delta);
     });
     const message = await stream.finalMessage();
+    addUsage(usage, message);
     messages.push({ role: "assistant", content: message.content });
 
     if (message.stop_reason === "refusal") {
@@ -392,5 +422,6 @@ export async function runChatTurn(
   }
   const churches = scannedNearby.map((c) => summarizeNearby(c, counts.get(c.scanned!.id) ?? 0));
 
-  return { text: finalText, history: messages, churches, place: ctx.place };
+  console.log(`[chat] ${describeUsage(usage, MODEL_CHAT)}`);
+  return { text: finalText, history: messages, churches, place: ctx.place, usage: { ...usage, model: MODEL_CHAT, cost: estimateCost(usage, MODEL_CHAT) } };
 }

@@ -34,8 +34,8 @@ Built by `npm run seed:montgomery`, which is as exhaustive as free sources allow
 | **Curated ministries** | Manna Food Center, Shepherd's Table, Interfaith Works, A Wider Circle, the HELP organisations (Gaithersburg, Germantown, Olney, Bethesda, WUMCO), Mid-County United Ministries, Catholic Charities, LSSNCA, MCCH, and more (`scripts/seed-montgomery.ts`) |
 
 Each site then goes through the same pipeline the chat uses live: crawl the homepage plus up to seven
-ministry/outreach pages → Claude structured extraction (`claude-opus-5`) → geocode → store. Roughly
-$0.20 of model usage per site; the web-search passes add a few dollars.
+ministry/outreach pages → Claude structured extraction (`claude-sonnet-5` by default) → geocode → store. Roughly
+$0.03 of model usage per site on Sonnet; the web-search passes add a few dollars.
 
 ## Pages
 
@@ -57,7 +57,7 @@ npm run seed:montgomery        # optional; --no-search skips the web-search pass
 npm run dev
 ```
 
-Set `BELONG_COUNTY` to point the same code at another county (the seed script and `src/lib/county.ts`
+Models default to `claude-sonnet-5` (about $0.02 per chat answer and $0.03 per site read, with prompt caching on the conversation); set `BELONG_MODEL_CHAT` / `BELONG_MODEL_EXTRACT` to `claude-opus-5` if you want the pricier model. Set `BELONG_COUNTY` to point the same code at another county (the seed script and `src/lib/county.ts`
 are the two county-specific spots). Deploys to Vercel with `vercel --prod`; chat and scan routes stream
 and set `maxDuration = 300`.
 

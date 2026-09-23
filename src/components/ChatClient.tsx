@@ -36,6 +36,7 @@ export default function ChatClient({ stats }: { stats: Stats | null }) {
   const [churches, setChurches] = useState<ChurchCard[]>([]);
   const [need, setNeed] = useState("");
   const [deckBusy, setDeckBusy] = useState(false);
+  const [spend, setSpend] = useState<{ turns: number; cost: number; model: string } | null>(null);
   const bottom = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -56,7 +57,7 @@ export default function ChatClient({ stats }: { stats: Stats | null }) {
         body: JSON.stringify({ message: t, history, place }),
       });
       await readSse(res, (event, data) => {
-        const d = data as { text?: string; error?: string; history?: unknown[]; churches?: ChurchCard[]; place?: Place | null };
+        const d = data as { text?: string; error?: string; history?: unknown[]; churches?: ChurchCard[]; place?: Place | null; usage?: { cost: number; model: string } };
         setMessages((m) => {
           const last = { ...m[m.length - 1] };
           if (event === "status" && d.text) last.statuses = [...(last.statuses ?? []), d.text];
@@ -69,6 +70,7 @@ export default function ChatClient({ stats }: { stats: Stats | null }) {
           if (d.history) setHistory(d.history);
           if (d.churches) setChurches((prev) => merge(prev, d.churches!));
           if (d.place) setPlace(d.place);
+          if (d.usage) setSpend((s) => ({ turns: (s?.turns ?? 0) + 1, cost: (s?.cost ?? 0) + d.usage!.cost, model: d.usage!.model }));
         }
       });
     } catch (e) {
@@ -188,6 +190,11 @@ export default function ChatClient({ stats }: { stats: Stats | null }) {
           </div>
         )}
         <div className="panel p-5 text-sm text-muted">
+          {spend && (
+            <p className="mb-2">
+              This conversation so far: {spend.turns} {spend.turns === 1 ? "answer" : "answers"}, about ${spend.cost < 0.01 ? "0.01" : spend.cost.toFixed(2)} of model usage ({spend.model.replace("claude-", "")}).
+            </p>
+          )}
           <p>Everything here comes from each organisation’s own website, read recently. Hours change — call first.</p>
           <p className="mt-2">Emergency: 911. County services: 311. Statewide help line: 211.</p>
         </div>

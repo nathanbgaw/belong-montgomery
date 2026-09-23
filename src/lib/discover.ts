@@ -1,5 +1,5 @@
 import Anthropic from "@anthropic-ai/sdk";
-import { anthropic, MODEL } from "./ai";
+import { anthropic, MODEL_EXTRACT as MODEL } from "./ai";
 import { normalizeWebsite } from "./geo";
 
 /**
