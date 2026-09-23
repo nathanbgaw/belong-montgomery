@@ -16,7 +16,7 @@ export default async function Directory() {
   const churches = sorted.filter((c) => c.kind !== "ministry");
 
   const Card = ({ c }: { c: (typeof all)[number] }) => (
-    <Link href={`/churches/${c.slug}`} className="panel flex flex-col gap-2 p-5 transition hover:shadow-[var(--shadow-e2)]">
+    <Link prefetch={false} href={`/churches/${c.slug}`} className="panel flex flex-col gap-2 p-5 transition hover:shadow-[var(--shadow-e2)]">
       <div className="flex items-start justify-between gap-2">
         <h2 className="text-lg leading-tight">{c.name}</h2>
         <span className="pill pill-primary shrink-0">{counts.get(c.id) ?? 0}</span>
