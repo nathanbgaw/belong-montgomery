@@ -130,6 +130,11 @@ async function pool<T>(items: T[], n: number, fn: (t: T, i: number) => Promise<v
   }
   console.log(`   ${addedB} websites found by search`);
 
+  // D. Ministries.
+  let addedD = 0;
+  for (const m of MINISTRIES) if (add(m.website, "ministry", { name: m.name })) addedD++;
+  console.log(`D. ${addedD} ministries`);
+
   // C. Discovery searches.
   const discovered = readJson<Record<string, { name: string; website: string; note: string }[]>>("montgomery-discovered.json", {});
   if (!SKIP_SEARCH) {
@@ -147,11 +152,6 @@ async function pool<T>(items: T[], n: number, fn: (t: T, i: number) => Promise<v
   let addedC = 0;
   for (const list of Object.values(discovered)) for (const d of list) if (add(d.website, "church", { name: d.name })) addedC++;
   console.log(`   ${addedC} new organisations from discovery`);
-
-  // D. Ministries.
-  let addedD = 0;
-  for (const m of MINISTRIES) if (add(m.website, "ministry", { name: m.name })) addedD++;
-  console.log(`D. ${addedD} ministries`);
 
   const todo = [...items.values()].slice(0, LIMIT);
   console.log(`\n${todo.length} sites to scan (concurrency ${CONCURRENCY})\n`);
